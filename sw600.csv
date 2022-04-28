@@ -1,0 +1,601 @@
+subj,rel,obj,subj_type,obj_type,aikg,annotator-1,annotator-2,annotator-3,gs
+abstract argument framework,affects,reasoning,Method,Task,1,1,1,1,1
+access control policy,uses,web ontology language,Method,Material,1,1,1,1,1
+achh,uses,reasoning,Method,Task,0,1,0,0,0
+ad hoc network domain,includes,semantic web service discovery,Task,Task,0,0,0,0,0
+adsi capable device,executes,reasoning,OtherEntity,Task,0,0,0,0,0
+agent institutional society,provides,reasoning,OtherEntity,Task,0,0,0,0,0
+agentbased system,uses,reasoning,Method,Task,1,1,1,1,1
+aggregate concept,affects,reasoning,OtherEntity,Task,1,0,1,0,0
+algebraic law,supports,reasoning,Method,Task,1,1,1,1,1
+algorithm approach,solves,reasoning,Method,Task,1,1,1,1,1
+amazon machine learning,supports,reasoning,Task,Task,1,1,1,1,1
+analogical reasoning,uses,reasoning,Task,Task,1,1,1,1,1
+animated example,uses,reasoning,Material,Task,0,0,0,0,0
+annotation of complex predicate,includes,reasoning,Task,Task,0,1,1,1,1
+annotation term,acquires,reasoning,OtherEntity,Task,0,0,0,0,0
+answer set,manages,reasoning,Material,Task,0,0,0,0,0
+argumentation semantics,based-on,reasoning,OtherEntity,Task,1,1,1,1,1
+artificial intelligence,uses,reasoning,Task,Task,1,1,1,1,1
+assembly joint,uses,semantic web rule language,OtherEntity,Method,0,0,1,0,0
+association seed based heuristic asbh,supports,linked data,Method,Material,0,0,0,0,0
+atomic instruction,supports,reasoning,OtherEntity,Task,1,0,1,1,1
+attentive comment,provides,reasoning,OtherEntity,Task,0,0,0,0,0
+augmented logic program,uses,reasoning,Method,Task,1,1,1,1,1
+automated theorem proving,provides,reasoning,Task,Task,1,1,1,1,1
+automatic recognition of handwritten digit,based-on,reasoning,Task,Task,0,1,1,1,1
+automation,guides,reasoning,Task,Task,1,1,1,1,1
+automation client,manages,semantic web service discovery,OtherEntity,Task,0,0,0,0,0
+automatizable method,uses,reasoning,Method,Task,1,1,0,0,0
+axiomatization,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+b rep,produces,reasoning,Method,Task,1,1,1,1,1
+bayesian analysis,provides,reasoning,Method,Task,1,1,1,1,1
+bayesian network structure,provides,reasoning,Method,Task,1,1,1,1,1
+benchmarking procedure,based-on,sparql,Method,Method,1,1,1,1,1
+bin confidence score,includes,web ontology language,OtherEntity,Material,0,0,0,0,0
+bisimulation,limits,rdf graph,Method,Material,0,1,1,1,1
+c sparql query,manages,linked data,Material,Material,0,1,0,0,0
+calculus repro,classifies,reasoning,Method,Task,1,1,0,0,0
+case based reasoning,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+cellular automaton,adapts,reasoning,Method,Task,1,1,1,1,1
+cem specification,uses,web ontology language,OtherEntity,Material,1,1,1,1,1
+channel topology,supports,reasoning,OtherEntity,Task,0,0,0,0,0
+chr rule,matches,reasoning,Method,Task,1,1,1,1,1
+classification of specific theme,uses,reasoning,Task,Task,0,0,1,0,0
+clips production rule system,includes,rdf data,Method,Material,0,1,1,1,1
+common lisp compiler,executes,reasoning,Method,Task,0,1,1,1,1
+commonsense knowledgebases,uses,linked data,Material,Material,0,1,0,0,0
+complex maintenance programs quantification,supports,reasoning,Task,Task,0,1,0,0,0
+computational model,analyzes,reasoning,Method,Task,1,1,1,1,1
+computational overhead,matches,reasoning,Metric,Task,0,0,0,0,0
+computer program,executes,reasoning,Method,Task,1,1,1,1,1
+computer software program logic,adapts,reasoning,OtherEntity,Task,0,0,1,0,0
+conceal secret data,based-on,reasoning,Material,Task,0,0,0,0,0
+constrained matrix factorization problem,supports,reasoning,Task,Task,0,1,1,1,1
+context aware system concept,executes,reasoning,OtherEntity,Task,0,0,0,0,0
+control and guiding mechanism,produces,reasoning,Method,Task,0,1,1,0,1
+cooperative action,uses,reasoning,Method,Task,1,1,1,1,1
+cooperative relaying scheme,skos:broader/is/hyponym-of,web ontology language,Method,Material,0,1,0,0,0
+countmin,affects,linked data,Metric,Material,0,0,0,0,0
+csscd,skos:broader/is/hyponym-of,semantic web service discovery,Task,Task,0,0,0,0,0
+cutset tuples,uses,reasoning,OtherEntity,Task,0,0,0,0,0
+dassa,produces,reasoning,Method,Task,0,0,0,0,0
+data collection solution,uses,wikidata,Method,Material,1,1,1,1,1
+data query language,supports,reasoning,Material,Task,1,1,1,1,1
+dbpedia,provides,arabic dbpedia,Material,Material,0,1,1,1,1
+dbpedia,skos:broader/is/hyponym-of,data source data,Material,Material,1,1,0,1,1
+dbpedia,skos:broader/is/hyponym-of,google knowledge graph,Material,Material,1,1,0,0,0
+dbpedia,skos:broader/is/hyponym-of,knowledge base,Material,Material,1,1,1,1,1
+dbpedia,skos:broader/is/hyponym-of,large scale knowledge base,Material,Material,1,1,1,1,1
+dbpedia,matches,nell,Material,Method,0,0,0,0,0
+dbpedia,skos:broader/is/hyponym-of,online data set,Material,Material,1,1,1,1,1
+dbpedia,skos:broader/is/hyponym-of,very large knowledge base,Material,Material,1,1,1,1,1
+decision making method,provides,reasoning,Method,Task,1,1,1,1,1
+decision theory,provides,reasoning,Method,Task,1,1,1,1,1
+decision theory,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+declarative system,uses,reasoning,Method,Task,1,1,1,1,1
+default logic,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+defeasible workflow,uses,reasoning,Method,Task,1,1,1,1,1
+depaudionet,includes,web ontology language,Method,Material,0,0,0,0,0
+derivation and reaction logic,uses,semantic web rule language,Method,Method,0,1,1,1,1
+diagnostic related information,produces,reasoning,OtherEntity,Task,0,0,1,1,1
+dialogue,provides,reasoning,Material,Task,0,0,0,0,0
+digital evolution experiment,produces,reasoning,Task,Task,0,0,0,0,0
+direct touch manipulation,uses,reasoning,OtherEntity,Task,0,0,1,0,0
+disk turntable,uses,rdf data,OtherEntity,Material,0,0,0,0,0
+domain knowledge,supports,reasoning,Material,Task,1,1,1,1,1
+dual estimation cost function,analyzes,reasoning,OtherEntity,Task,0,0,0,0,0
+dynamic polyrhythmic sequencer,outperforms,reasoning,Method,Task,0,0,0,0,0
+dynamic resource availability,includes,reasoning,OtherEntity,Task,0,0,0,0,0
+e work ontology,uses,resource description framework,OtherEntity,Material,1,1,1,1,1
+economical connectivity architecture,provides,reasoning,Method,Task,0,0,0,0,0
+electricity load planning,analyzes,reasoning,Task,Task,0,0,0,0,0
+encryption circuit 10,includes,reasoning,Method,Task,0,0,0,0,0
+enumeration of value,uses,reasoning,OtherEntity,Task,0,0,0,0,0
+european storm,uses,reasoning,Material,Task,0,0,0,0,0
+evalpsn,manages,reasoning,Method,Task,1,1,1,1,1
+evaluator of real valued expression,limits,reasoning,OtherEntity,Task,0,0,0,0,0
+event b,uses,reasoning,Method,Task,1,1,1,1,1
+existentially quantied variable,produces,reasoning,OtherEntity,Task,0,0,1,0,0
+explicit knowledge,uses,rdf data,OtherEntity,Material,1,1,1,1,1
+expressive terminological description,uses,reasoning,Material,Task,0,0,0,0,0
+extended dl reasoner,provides,reasoning,Method,Task,1,1,1,1,1
+extensible hypertext markup language,uses,resource description framework,Material,Material,0,1,0,1,1
+extension rule library,uses,reasoning,Method,Task,0,0,1,1,1
+eye opening degree,produces,reasoning,OtherEntity,Task,0,0,0,0,0
+eye tracking and detection system,uses,reasoning,Method,Task,0,0,1,1,1
+fault identification and management,uses,reasoning,Task,Task,1,1,1,1,1
+fault resolution expertise,uses,reasoning,OtherEntity,Task,0,0,0,0,0
+feedforward neural network,executes,reasoning,Method,Task,1,1,1,1,1
+feedforward neural network,produces,reasoning,Method,Task,1,1,1,1,1
+first order theorem provers,provides,reasoning,Method,Task,1,1,1,1,1
+flexible tutorial dialog strategy,includes,reasoning,Method,Task,0,0,0,0,0
+fma,uses,web ontology language,Method,Material,1,1,1,1,1
+forensic tool,improves,reasoning,Method,Task,1,1,1,1,1
+formal language theory,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+formal logical system,produces,reasoning,Method,Task,1,1,1,1,1
+formal method,supports,reasoning,Method,Task,1,1,1,1,1
+formal model,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+formal semantics,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+fuzzy description logic,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+fuzzy expert system,based-on,reasoning,Method,Task,1,1,1,1,1
+fuzzy expert system,supports,reasoning,Method,Task,1,1,1,1,1
+fuzzy inference system,supports,reasoning,Method,Task,1,1,1,1,1
+fuzzy process,produces,reasoning,Method,Task,1,1,1,1,1
+fuzzy variable,provides,reasoning,OtherEntity,Task,0,0,0,0,0
+gas sample pre process,affects,reasoning,Method,Task,0,0,0,0,0
+geometric window,matches,reasoning,OtherEntity,Task,0,0,0,0,0
+gibbs sampling,executes,reasoning,Method,Task,1,1,1,1,1
+goal oriented analysis approach,uses,reasoning,Method,Task,1,1,1,1,1
+google knowledge graph,uses,linked data,Material,Material,0,1,0,1,1
+graph kernel,uses,rdf graph,Method,Material,1,1,1,1,1
+grebe,uses,reasoning,Method,Task,1,1,1,1,1
+handing semantic web data,uses,resource description framework,Task,Material,1,0,1,0,0
+hcl domain,uses,linked data,Material,Material,0,0,0,0,0
+holding part 23,identifies,reasoning,Method,Task,0,0,0,0,0
+homogeneous state space,predicts,reasoning,OtherEntity,Task,0,0,0,0,0
+host programming language,queries,web ontology language,OtherEntity,Material,0,1,1,0,1
+hybrid model the,produces,reasoning,Method,Task,1,0,0,1,0
+identity resolution,uses,linked data,Task,Material,1,1,1,0,1
+ieee 754 standard,produces,reasoning,Method,Task,1,1,0,1,1
+ieee cig 2009 competition,executes,reasoning,Material,Task,0,0,0,0,0
+ifc dataset,uses,rdf graph,Material,Material,0,1,0,0,0
+illuminance of the object space,contributes-to,web ontology language,OtherEntity,Material,0,0,0,0,0
+incremental quantitative constraint,produces,reasoning,OtherEntity,Task,0,0,0,0,0
+input manipulation vulnerability,includes,resource description framework,OtherEntity,Material,0,0,0,0,0
+intelligent agent,executes,reasoning,Method,Task,1,1,1,0,1
+intelligent agent,queries,reasoning,Method,Task,0,0,0,1,0
+intelligent agent,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,0,0
+intelligent agent,uses,reasoning,Method,Task,1,1,1,0,1
+inter patch overlap,skos:broader/is/hyponym-of,ontology learning,OtherEntity,Task,0,0,0,1,0
+interaction protocol,supports,ontology evolution,Method,Task,0,0,0,0,0
+interactive heterogeneous theorem proving framework,executes,reasoning,Method,Task,1,1,1,0,1
+internet complexity,produces,reasoning,Metric,Task,0,0,0,0,0
+java,supports,reasoning,Material,Task,1,1,1,0,1
+key press inference attack,uses,web ontology language,Task,Material,0,0,0,0,0
+keyword search,uses,rdf data,Method,Material,1,1,1,0,1
+knowledge base,includes,linked data,Material,Material,1,1,1,1,1
+knowledge base,uses,resource description framework,Material,Material,0,1,0,1,1
+knowledge management system,uses,reasoning,Method,Task,1,1,1,1,1
+knowledge representation,based-on,reasoning,Method,Task,1,1,1,1,1
+knowledge representation,produces,reasoning,Method,Task,1,1,1,1,1
+knowledge representation,uses,web ontology language,Method,Material,1,1,1,1,1
+latent factor,uses,semantic web service discovery,OtherEntity,Task,0,0,0,1,0
+limited resource problem,manages,rdf data,Task,Material,1,0,0,0,0
+linear inference mechanism,manages,reasoning,Method,Task,1,0,1,0,0
+linguistic fuzzy trust model,uses,reasoning,Method,Task,1,1,1,0,1
+link information,uses,linked data,Material,Material,0,1,0,1,1
+linked data,uses,aligned tool,Material,Method,0,0,0,0,0
+linked data,identifies,background information,Material,Material,0,1,0,0,0
+linked data,identifies,broadcast,Material,Material,0,0,0,0,0
+linked data,based-on,causal relation expression,Material,OtherEntity,1,0,0,0,0
+linked data,uses,data format representation,Material,Method,0,0,0,0,0
+linked data,learns,deep learning based method,Material,Method,0,0,0,0,0
+linked data,links,external relevant data,Material,Material,0,1,0,0,0
+linked data,skos:broader/is/hyponym-of,preexisting declarative knowledge,Material,OtherEntity,0,0,0,1,0
+linked data,uses,triple pattern fragment,Material,Method,0,0,0,0,0
+linking analysis,improves,semantic web service discovery,Task,Task,1,1,1,0,1
+local consistency,analyzes,reasoning,Metric,Task,1,0,0,1,0
+logic based formalization,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,0,0
+logic formula,improves,reasoning,OtherEntity,Task,0,0,1,0,0
+logic programming,executes,reasoning,Method,Task,1,1,1,0,1
+logic programming,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,1,1
+machine learning based algorithm,based-on,reasoning,Method,Task,1,1,1,0,1
+malignant transformation,skos:broader/is/hyponym-of,reasoning,Task,Task,1,0,0,1,0
+map-reduce,solves,reasoning,Method,Task,1,1,1,0,1
+marginal probability distribution,includes,reasoning,OtherEntity,Task,0,0,0,1,0
+mathematical structure,acquires,reasoning,Method,Task,1,0,0,0,0
+matrix parallel computation,acquires,reasoning,Method,Task,0,0,0,0,0
+melody tone,analyzes,reasoning,OtherEntity,Task,0,0,0,0,0
+memory safety,supports,reasoning,OtherEntity,Task,0,0,0,0,0
+micro letter public name,adapts,semantic web service discovery,OtherEntity,Task,0,0,0,0,0
+micro level process,proposes,reasoning,OtherEntity,Task,0,0,0,0,0
+mobile communication device user,uses,web ontology language,OtherEntity,Material,0,0,1,0,0
+model clothes,improves,reasoning,OtherEntity,Task,0,0,0,0,0
+modelling,produces,reasoning,Task,Task,1,0,1,0,0
+multi context representation of belief,provides,reasoning,Method,Task,1,0,1,0,0
+multi-agent,uses,reasoning,Method,Task,1,1,1,0,1
+multiagent system,uses,reasoning,Method,Task,1,1,1,1,1
+multiplevalued iogics,produces,reasoning,OtherEntity,Task,0,0,0,1,0
+mycin certainty factors model,contributes-to,reasoning,Method,Task,1,1,1,0,1
+n rosy field construction,uses,reasoning,Method,Task,0,0,0,1,0
+naive bayesian classifier,provides,reasoning,Method,Task,1,1,1,0,1
+named entities annotation,links,dbpedia,OtherEntity,Material,0,1,1,1,1
+nars,produces,reasoning,Material,Task,0,0,0,1,0
+neighborhood structure,provides,reasoning,OtherEntity,Task,0,0,1,0,0
+non monotonic modal logic,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,0,0
+normalized mixture distance function,supports,reasoning,Method,Task,0,0,1,0,0
+np hard equivariant unification problem,uses,semantic web rule language,Task,Method,0,0,0,0,0
+ontology engineering,improves,agile ontology engineering,Task,Task,1,0,0,0,0
+ontology engineering,visualizes,background knowledge,Task,Material,0,1,1,0,1
+ontology engineering,includes,consistent query answering technique,Task,Method,0,0,0,0,0
+ontology engineering,contributes-to,ontology integration,Task,Task,1,1,1,0,1
+ontology engineering,improves,ontology integration,Task,Task,1,1,1,1,1
+ontology engineering,provides,ontology integration,Task,Task,1,1,1,1,1
+ontology engineering,includes,universality,Task,Metric,1,0,1,1,1
+ontology engineering,uses,web ontology language,Task,Material,1,1,1,1,1
+ontology evaluation,analyzes,ontology integration,Task,Task,1,1,1,1,1
+ontology integration,improves,ontology engineering,Task,Task,1,1,1,1,1
+ontology integration,produces,ontology engineering,Task,Task,1,0,0,1,0
+ontology integration,supports,ontology engineering,Task,Task,1,1,1,0,1
+ontology integration,affects,reasoning,Task,Task,1,1,1,1,1
+ontology integration,contributes-to,reasoning,Task,Task,1,1,1,1,1
+ontology integration,manages,reasoning,Task,Task,1,0,1,1,1
+ontology integration,produces,reasoning,Task,Task,1,1,0,0,0
+ontology integration,provides,reasoning,Task,Task,1,1,1,0,1
+ontology integration,produces,semantic web rule language,Task,Method,1,1,1,1,1
+ontology integration,produces,web ontology language,Task,Material,1,0,1,1,1
+ontology integration,uses,web ontology language,Task,Material,1,1,1,1,1
+ontology learning,supports,construction of the ontology,Task,Task,1,1,1,1,1
+ontology learning,uses,grammatical rule extraction technique,Task,Method,0,1,1,1,1
+ontology learning,executes,object auxiliary disparity map,Task,OtherEntity,0,0,0,1,0
+ontology learning,uses,semi formatted document,Task,Material,0,0,0,0,0
+ontology matching,extracts,bag of nonverbal pattern,Task,OtherEntity,0,0,1,0,0
+ontology matching,uses,description logic reasoner functionality,Task,OtherEntity,1,0,1,0,0
+ontology matching,based-on,element level matching,Task,Task,1,1,1,1,1
+ontology matching,produces,enabling component,Task,Method,0,0,0,1,0
+ontology matching,uses,multiagent architecture,Task,Method,1,1,1,0,1
+ontology matching,solves,ontology integration,Task,Task,1,1,1,1,1
+ontology matching,uses,ontology integration,Task,Task,1,1,1,1,1
+ontology matching,produces,syntactic and semantic similarity algorithm,Task,Method,0,0,1,1,1
+ontology matching,executes,table annotation,Task,Task,0,0,1,0,0
+ontology merging,automates,ontological translation,Task,Task,0,0,1,0,0
+ontology refinement component,skos:broader/is/hyponym-of,ontology evolution,Method,Task,1,0,0,0,0
+ontoshare,supports,ontology evolution,Method,Task,1,1,1,0,1
+operator implementation function,executes,reasoning,OtherEntity,Task,0,0,0,0,0
+orientation and distance interval,matches,reasoning,OtherEntity,Task,0,0,0,0,0
+owl data management system,executes,reasoning,Method,Task,1,1,1,0,1
+parallel computation strategy,uses,resource description framework,Method,Material,0,0,0,1,0
+partial image coding device,supports,reasoning,Method,Task,0,0,0,0,0
+partial local knowledge,acquires,ontology matching,OtherEntity,Task,0,0,0,0,0
+partial observability condition,based-on,reasoning,OtherEntity,Task,0,0,0,0,0
+philological approach,includes,reasoning,Method,Task,1,1,0,0,0
+plotting knowledge base,produces,reasoning,Material,Task,0,0,0,0,0
+pregnancy monitoring,analyzes,reasoning,Task,Task,0,0,0,0,0
+privacy,based-on,reasoning,Metric,Task,1,0,1,0,0
+probabilistic framework,supports,reasoning,Method,Task,1,1,1,0,1
+probabilistic network structure,uses,reasoning,OtherEntity,Task,0,1,1,1,1
+process planning,automates,reasoning,Task,Task,0,0,1,1,1
+product function,uses,web ontology language,Task,Material,1,0,1,0,0
+program analysis and verification,uses,reasoning,Task,Task,1,1,1,0,1
+program semantics,acquires,reasoning,Task,Task,1,0,0,1,0
+program semantics,based-on,reasoning,Task,Task,1,0,1,1,1
+program semantics,limits,reasoning,Task,Task,1,0,1,0,0
+program semantics,provides,reasoning,Task,Task,1,0,1,0,0
+program semantics,uses,reasoning,Task,Task,1,0,1,0,0
+program semantics,provides,web ontology language,Task,Material,1,0,1,0,0
+proof system,supports,reasoning,Method,Task,1,1,1,0,1
+prototype pattern,uses,reasoning,OtherEntity,Task,0,0,0,1,0
+prototyping time,skos:broader/is/hyponym-of,reasoning,Metric,Task,0,0,0,0,0
+qald4,skos:broader/is/hyponym-of,linked data,Material,Material,0,1,0,0,0
+querying rdf datasets,uses,sparql,Task,Method,1,1,1,1,1
+r device,based-on,resource description framework,Method,Material,0,0,1,1,1
+raw 2d geospatial data,uses,semantic web service discovery,Material,Task,0,0,0,0,0
+rb rbac policy management,uses,web ontology language,Method,Material,1,0,1,0,0
+rdb data,uses,resource description framework,Material,Material,0,1,0,0,0
+rdf data,uses,column oriented database system,Material,Method,0,0,0,1,0
+rdf data,uses,fuzzy and linguistic variable,Material,OtherEntity,0,0,0,0,0
+rdf data,matches,general purpose ontology,Material,Method,0,0,0,0,0
+rdf data,uses,public rdf document,Material,Material,0,1,0,0,0
+rdf data,uses,topic model,Material,Method,0,0,0,0,0
+rdf data,based-on,triple format,Material,OtherEntity,1,1,1,0,1
+rdf database,produces,web ontology language,Material,Material,0,0,0,1,0
+rdf graph,uses,query optimizer,Material,Method,0,0,0,0,0
+rdf graph,includes,strong and weak negation,Material,OtherEntity,1,0,1,0,0
+rdf terminology,adapts,resource description framework,Material,Material,0,1,0,0,0
+reachability of state,uses,reasoning,OtherEntity,Task,0,0,0,1,0
+reasoning,limits,adversarial reward,Task,OtherEntity,0,1,0,0,0
+reasoning,skos:broader/is/hyponym-of,ai based application,Task,Task,1,1,1,0,1
+reasoning,skos:broader/is/hyponym-of,ai problem,Task,Task,1,1,1,1,1
+reasoning,uses,algorithm selection approach,Task,Method,0,1,1,1,1
+reasoning,extracts,annotated source,Task,Material,0,0,1,1,1
+reasoning,uses,answer function,Task,OtherEntity,1,1,1,0,1
+reasoning,produces,approachbugramthat,Task,OtherEntity,0,0,0,1,0
+reasoning,based-on,argumentation semantics,Task,OtherEntity,1,0,1,0,0
+reasoning,includes,argumentation semantics,Task,OtherEntity,1,0,1,1,1
+reasoning,includes,artificial intelligence,Task,Task,1,1,1,0,1
+reasoning,uses,artificial intelligence,Task,Task,1,1,1,1,1
+reasoning,skos:broader/is/hyponym-of,artificial intelligence methods and technique,Task,Method,1,1,0,1,1
+reasoning,skos:broader/is/hyponym-of,author generated metadata,Task,Material,0,0,0,1,0
+reasoning,supports,automation,Task,Task,1,1,1,0,1
+reasoning,uses,baseline physical activity,Task,OtherEntity,0,0,1,1,1
+reasoning,uses,belief network formulation,Task,Method,1,1,1,0,1
+reasoning,skos:broader/is/hyponym-of,cognitive process,Task,Method,1,1,0,1,1
+reasoning,produces,color histogram,Task,Method,0,0,1,0,0
+reasoning,executes,common cinematic technique,Task,Method,0,0,0,0,0
+reasoning,links,contrast term,Task,OtherEntity,0,0,1,0,0
+reasoning,solves,crisp functional relationship,Task,OtherEntity,1,1,1,0,1
+reasoning,acquires,crisp representation,Task,Method,1,0,1,1,1
+reasoning,manages,crisp representation,Task,Method,1,0,1,0,0
+reasoning,uses,dbms based triple store,Task,Method,0,1,1,0,1
+reasoning,produces,decision support system,Task,Method,1,1,1,1,1
+reasoning,uses,decision tree,Task,Method,1,1,1,1,1
+reasoning,produces,deductively closed,Task,OtherEntity,1,0,0,1,0
+reasoning,provides,derivation of high level context,Task,OtherEntity,0,1,1,0,1
+reasoning,uses,design time method,Task,Method,0,0,0,1,0
+reasoning,provides,drawing process processor,Task,Method,0,0,0,0,0
+reasoning,skos:broader/is/hyponym-of,events and causal relation,Task,OtherEntity,1,0,0,0,0
+reasoning,identifies,exhaustive analysis version,Task,Method,0,0,0,0,0
+reasoning,uses,explicit knowledge,Task,OtherEntity,1,1,1,0,1
+reasoning,affects,extended relational calculus,Task,Method,1,1,0,1,1
+reasoning,uses,factual and hypothetical observation,Task,OtherEntity,0,0,1,1,1
+reasoning,uses,fixed model,Task,Method,0,1,1,1,1
+reasoning,supports,flood forecasting and simulation,Task,Task,0,0,1,1,1
+reasoning,uses,formal logic,Task,Method,1,1,1,1,1
+reasoning,supports,formal reasoning method,Task,Method,1,1,1,1,1
+reasoning,learns,formation rule,Task,Method,0,0,1,1,1
+reasoning,uses,frictional dynamic,Task,OtherEntity,0,0,0,0,0
+reasoning,provides,fuzzy description logic,Task,Method,1,0,1,0,0
+reasoning,uses,fuzzy description logic,Task,Method,1,1,1,0,1
+reasoning,uses,fuzzy expert system,Task,Method,1,1,1,1,1
+reasoning,uses,fuzzy logic inference,Task,Method,1,1,1,1,1
+reasoning,uses,generic message,Task,OtherEntity,0,0,1,1,1
+reasoning,uses,gm phd r,Task,Method,0,0,0,0,0
+reasoning,acquires,grasp mode,Task,OtherEntity,0,0,1,0,0
+reasoning,includes,high level search technique,Task,Method,0,0,1,0,0
+reasoning,skos:broader/is/hyponym-of,human like tasking,Task,Task,1,1,1,0,1
+reasoning,based-on,human resources strategy,Task,Method,0,1,1,1,1
+reasoning,analyzes,hypermedia,Task,Material,1,0,1,1,1
+reasoning,based-on,ict product or service,Task,OtherEntity,0,0,1,0,0
+reasoning,uses,image classification,Task,Task,1,1,1,0,1
+reasoning,uses,image of the guiding marker,Task,OtherEntity,0,0,0,1,0
+reasoning,based-on,incomplete and inconsistent information,Task,OtherEntity,1,1,1,0,1
+reasoning,includes,inference of ancestral state,Task,OtherEntity,0,0,1,1,1
+reasoning,uses,information integration,Task,Task,1,1,1,0,1
+reasoning,produces,inliers,Task,OtherEntity,0,0,1,1,1
+reasoning,based-on,intelligent multimodal fusion,Task,Task,0,1,1,0,1
+reasoning,uses,interactive theorem proving,Task,Task,1,1,1,1,1
+reasoning,uses,interpreter,Task,Method,1,1,1,1,1
+reasoning,executes,knowledge base,Task,Material,1,0,0,1,0
+reasoning,manages,knowledge base,Task,Material,1,0,1,0,0
+reasoning,queries,knowledge base,Task,Material,1,0,1,0,0
+reasoning,uses,knowledge base,Task,Material,1,1,1,1,1
+reasoning,produces,knowledge management system,Task,Method,1,1,1,1,1
+reasoning,uses,knowledge representation,Task,Method,1,1,1,1,1
+reasoning,matches,lan,Task,Material,0,0,0,1,0
+reasoning,uses,large size rdf data,Task,Material,1,0,1,0,0
+reasoning,uses,local web search engine,Task,Method,0,0,1,0,0
+reasoning,analyzes,logic programming,Task,Method,1,1,0,0,0
+reasoning,uses,logic programming,Task,Method,1,1,1,0,1
+reasoning,based-on,logical concept abduction,Task,OtherEntity,1,1,1,1,1
+reasoning,provides,low level explicit context,Task,OtherEntity,0,1,1,1,1
+reasoning,produces,mathematics,Task,Material,1,1,1,0,1
+reasoning,supports,maximum entropy formalism,Task,Method,0,1,1,0,1
+reasoning,uses,memory fence,Task,OtherEntity,0,0,0,1,0
+reasoning,uses,metric diagram,Task,OtherEntity,0,0,1,0,0
+reasoning,uses,moraldm model,Task,Method,0,1,1,0,1
+reasoning,improves,multimedia stream,Task,Material,1,0,0,0,0
+reasoning,uses,multisensor data fusion,Task,Task,1,1,1,0,1
+reasoning,uses,natural language,Task,Material,1,0,1,1,1
+reasoning,supports,natural language policy authoring interface,Task,Method,0,0,1,1,1
+reasoning,uses,natural local behaviour,Task,OtherEntity,0,0,1,0,0
+reasoning,includes,normalized adaptive recurrent learning,Task,Method,0,1,1,0,1
+reasoning,proposes,null pointer warning,Task,OtherEntity,0,0,0,1,0
+reasoning,solves,object referencing,Task,OtherEntity,0,0,0,0,0
+reasoning,acquires,ontology integration,Task,Task,1,0,0,0,0
+reasoning,includes,ontology integration,Task,Task,1,0,1,0,0
+reasoning,manages,ontology integration,Task,Task,1,1,1,0,1
+reasoning,uses,ontology integration,Task,Task,1,0,1,1,1
+reasoning,classifies,ordering on relation,Task,OtherEntity,0,0,0,1,0
+reasoning,produces,owl api,Task,Method,0,0,0,0,0
+reasoning,based-on,package based description logic,Task,Method,0,1,1,0,1
+reasoning,supports,predicted dynamic,Task,OtherEntity,1,0,1,1,1
+reasoning,based-on,probabilistic framework,Task,Method,1,1,1,0,1
+reasoning,solves,problem solving experience,Task,OtherEntity,1,0,0,1,0
+reasoning,uses,product recommendation,Task,Task,0,1,1,0,1
+reasoning,supports,program invariant,Task,OtherEntity,1,0,1,0,0
+reasoning,provides,program semantics,Task,Task,1,0,1,0,0
+reasoning,supports,program semantics,Task,Task,1,1,1,0,1
+reasoning,supports,pruning unimportant weight,Task,OtherEntity,0,0,1,1,1
+reasoning,based-on,qualitative process theory,Task,Method,1,1,1,0,1
+reasoning,supports,querying of argument,Task,Task,1,1,1,1,1
+reasoning,uses,question answering,Task,Task,1,1,1,1,1
+reasoning,uses,random forest,Task,Method,1,1,1,1,1
+reasoning,uses,rdf schema,Task,Method,1,1,1,1,1
+reasoning,uses,recommendation,Task,Task,1,1,1,1,1
+reasoning,supports,refined technique,Task,Method,0,1,0,1,1
+reasoning,uses,restricted circumscribed owl ontology,Task,OtherEntity,1,0,1,0,0
+reasoning,identifies,rotor mechanism,Task,Method,0,1,1,0,1
+reasoning,based-on,rough set theory,Task,Method,1,1,1,0,1
+reasoning,uses,rule base,Task,Method,1,1,1,1,1
+reasoning,based-on,rule based reasoning,Task,Method,1,1,1,1,1
+reasoning,based-on,secured agent repository,Task,Material,0,0,0,1,0
+reasoning,produces,self adaptive per,Task,OtherEntity,1,0,0,0,0
+reasoning,queries,semantic based web mining,Task,Task,0,0,0,0,0
+reasoning,contributes-to,slow and fast operating mode,Task,OtherEntity,0,0,0,0,0
+reasoning,produces,software development team,Task,Task,0,0,0,0,0
+reasoning,uses,software reuse,Task,Task,1,1,0,0,0
+reasoning,based-on,spatial relation,Task,Task,1,0,1,0,0
+reasoning,acquires,spherical like object,Task,OtherEntity,0,0,0,1,0
+reasoning,supports,sub picture display area,Task,OtherEntity,0,0,0,0,0
+reasoning,skos:broader/is/hyponym-of,subsumption analysis of concept,Task,OtherEntity,1,0,0,0,0
+reasoning,includes,treatment planning study,Task,Method,0,1,0,0,0
+reasoning,executes,verification,Task,Task,1,1,1,0,1
+reasoning,improves,verification,Task,Task,1,1,1,1,1
+reasoning,provides,verification,Task,Task,1,1,1,1,1
+reasoning,acquires,verifying gsm program,Task,Task,0,0,0,1,0
+reasoning,includes,visual knowledge base,Task,Material,1,0,0,0,0
+reasoning,affects,wall climbing robot,Task,Method,1,1,1,0,1
+reasoning,causes,wall thermal conductivity,Task,OtherEntity,0,0,0,1,0
+resource description framework,skos:broader/is/hyponym-of,communications metadata,Material,OtherEntity,1,0,0,0,0
+resource description framework,supports,communications metadata,Material,OtherEntity,1,0,1,0,0
+resource description framework,adapts,csparql extension,Material,Method,0,1,0,0,0
+resource description framework,extracts,intersection of curves and surface,Material,OtherEntity,0,0,0,0,0
+resource description framework,based-on,knowledge base,Material,Material,1,1,0,0,0
+resource description framework,skos:broader/is/hyponym-of,knowledge representation language,Material,Method,1,1,0,0,0
+resource description framework,skos:broader/is/hyponym-of,message text,Material,Material,0,0,0,1,0
+resource description framework,uses,metamodelling,Material,Method,0,1,0,0,0
+resource description framework,uses,rdf model theory,Material,Method,0,0,0,1,0
+resource description framework,uses,rdf pattern,Material,OtherEntity,0,1,0,0,0
+resource description framework,uses,rql,Material,Method,0,0,0,0,0
+resource description framework,matches,shape expression,Material,Method,0,0,0,0,0
+resource description framework,skos:broader/is/hyponym-of,shared syntax,Material,OtherEntity,1,0,0,0,0
+resource description framework,based-on,sound andsound gesture mapping,Material,Method,0,0,0,0,0
+resource description framework,transfers,tagged deployable software component,Material,Method,0,0,0,0,0
+resource description framework,uses,uml metamodels,Material,Method,0,0,0,0,0
+rhesus monkey,acquires,reasoning,Material,Task,0,0,0,0,0
+robust stochastic answer network,executes,reasoning,Method,Task,1,1,1,0,1
+role concept,manages,reasoning,Method,Task,1,0,0,1,0
+rotary variator input,uses,sparql,OtherEntity,Method,0,0,0,0,0
+rotation of cluster heads chs,uses,reasoning,OtherEntity,Task,0,0,0,0,0
+rsms,provides,reasoning,Method,Task,1,1,1,0,1
+rule base,uses,reasoning,Method,Task,1,1,1,0,1
+rules based text tagging method,identifies,semantic web service discovery,Method,Task,0,0,0,1,0
+s box,includes,reasoning,Method,Task,1,0,1,0,0
+salinity variation,supports,semantic web service discovery,OtherEntity,Task,0,0,0,0,0
+scaling error,uses,sparql,OtherEntity,Method,0,0,0,0,0
+scienceweb,uses,reasoning,Material,Task,0,0,0,0,0
+second client side,supports,reasoning,OtherEntity,Task,0,0,0,0,0
+semantator,supports,reasoning,Method,Task,1,1,1,0,1
+semantic coincidence ratio,learns,reasoning,Metric,Task,0,0,0,1,0
+semantic description,executes,reasoning,Task,Task,1,1,0,0,0
+semantic description,uses,semantic web rule language,Task,Method,1,1,1,0,1
+semantic descriptions of web service,uses,web ontology language,Task,Material,1,1,1,1,1
+semantic information,uses,web ontology language,Method,Material,1,1,1,1,1
+semantic interoperability,uses,ontology matching,Task,Task,1,1,1,1,1
+semantic power,produces,reasoning,Metric,Task,0,0,0,1,0
+semantic repository system,uses,web ontology language,Method,Material,1,1,1,0,1
+semantic search,acquires,electronic text corpus,Task,Material,1,1,1,1,1
+semantic search,uses,estimated penalized likelihood method,Task,Method,0,0,0,1,0
+semantic search,based-on,semantic meta information of attribute,Task,OtherEntity,0,1,1,0,1
+semantic search,improves,tile prefetching policy,Task,Method,0,0,0,1,0
+semantic triple,uses,dbpedia,OtherEntity,Material,1,1,1,0,1
+semantic triple,uses,reasoning,OtherEntity,Task,0,0,0,1,0
+semantic web,analyzes,reasoning,Material,Task,0,0,0,0,0
+semantic web,based-on,reasoning,Material,Task,1,1,1,0,1
+semantic web,skos:broader/is/hyponym-of,web ontology language,Material,Material,1,1,0,0,0
+semantic web rule language,uses,aggregation of rdf stream,Method,Material,1,0,1,0,0
+semantic web rule language,matches,bww representation capability,Method,Method,0,0,1,0,0
+semantic web rule language,produces,decidable system class,Method,OtherEntity,1,0,0,0,0
+semantic web rule language,based-on,jess fact,Method,OtherEntity,1,0,1,0,0
+semantic web rule language,uses,ontology integration,Method,Task,1,1,1,0,1
+semantic web rule language,skos:broader/is/hyponym-of,rule base,Method,Method,1,1,1,0,1
+semantic web rule language,skos:broader/is/hyponym-of,self testing alu design,Method,Method,0,0,0,0,0
+semantic web rule language,queries,semantic web rules language swrl,Method,Method,0,0,0,0,0
+semantic web rule language,uses,spatial symmetry,Method,OtherEntity,0,0,0,0,0
+semantic web rule language,analyzes,syntactic based approach,Method,Method,0,0,0,0,0
+semantic web service discovery,uses,aspect oriented programming mechanism,Task,Method,0,0,0,0,0
+semantic web service discovery,includes,automated data flow,Task,Task,1,0,1,0,0
+semantic web service discovery,includes,behavioral interface theory,Task,Method,0,0,0,1,0
+semantic web service discovery,uses,bpel,Task,Method,1,1,1,0,1
+semantic web service discovery,skos:broader/is/hyponym-of,combine function,Task,OtherEntity,0,0,0,1,0
+semantic web service discovery,uses,declarative definition,Task,OtherEntity,1,0,1,0,0
+semantic web service discovery,skos:broader/is/hyponym-of,distributed computing environment,Task,Method,1,1,0,0,0
+semantic web service discovery,transfers,genetic locus information,Task,OtherEntity,0,0,0,0,0
+semantic web service discovery,uses,high order fuzzy cognitive map,Task,Method,1,0,0,0,0
+semantic web service discovery,uses,indexing mechanism,Task,Method,1,1,1,0,1
+semantic web service discovery,matches,information technology,Task,Method,1,1,0,1,1
+semantic web service discovery,skos:broader/is/hyponym-of,instructional mutation aca,Task,Method,0,0,0,1,0
+semantic web service discovery,produces,non cooperative service pricing game,Task,Method,0,0,0,0,0
+semantic web service discovery,analyzes,ontology integration,Task,Task,1,1,0,0,0
+semantic web service discovery,based-on,ontology integration,Task,Task,1,1,1,0,1
+semantic web service discovery,uses,ontology integration,Task,Task,1,1,1,1,1
+semantic web service discovery,produces,overall semantic similarity score value,Task,OtherEntity,1,0,1,1,1
+semantic web service discovery,discusses,process interaction paradigm,Task,Method,0,0,0,0,0
+semantic web service discovery,provides,program semantics,Task,Task,1,1,1,0,1
+semantic web service discovery,analyzes,readability of wsdl document,Task,Task,1,0,0,0,0
+semantic web service discovery,produces,relational database,Task,Material,1,1,0,0,0
+semantic web service discovery,uses,relational database,Task,Material,1,1,1,0,1
+semantic web service discovery,uses,resource description framework,Task,Material,1,1,1,1,1
+semantic web service discovery,analyzes,satisfiability of temporal constraint,Task,OtherEntity,0,0,0,1,0
+semantic web service discovery,solves,semantic and context information,Task,OtherEntity,1,0,1,0,0
+semantic web service discovery,uses,semantic information,Task,Method,1,1,1,0,1
+semantic web service discovery,proposes,servicebook,Task,Method,0,0,0,1,0
+semantic web service discovery,includes,three phases method,Task,Method,1,0,0,0,0
+semantic web service discovery,includes,transformation definition,Task,OtherEntity,1,0,0,0,0
+semantic web service discovery,contributes-to,web service based technology,Task,Method,1,1,1,0,1
+semantic web service discovery,contributes-to,x wsdl document,Task,Material,1,0,0,1,0
+semantically working environment,uses,ontology engineering,Task,Task,1,0,1,0,0
+semantics of the data,uses,web ontology language,Material,Material,0,1,0,1,1
+sensor,produces,reasoning,Material,Task,0,0,0,0,0
+sentential cognitive system,includes,reasoning,Method,Task,1,1,1,0,1
+separation logic,skos:broader/is/hyponym-of,reasoning,Method,Task,1,1,0,0,0
+similarity relation,uses,reasoning,Task,Task,1,1,1,1,1
+so called spatial organization graph,uses,reasoning,OtherEntity,Task,0,1,0,1,1
+social norm,includes,reasoning,OtherEntity,Task,0,1,1,0,1
+socio technical infrastructure,produces,ontology matching,Method,Task,0,0,0,0,0
+sparql,uses,centrality based network analysis method,Method,Method,0,0,1,0,0
+sparql,predicts,feasibility characterization problem,Method,Task,0,0,0,0,0
+sparql,uses,ibm db2 9,Method,Material,0,0,0,0,0
+sparql,produces,lela ontology,Method,OtherEntity,1,1,0,0,0
+sparql,includes,similarity measuring function,Method,Method,0,1,1,1,1
+sparql,skos:broader/is/hyponym-of,user friendly bioinformatics resource,Method,Material,1,0,0,1,0
+spatial temporal data,uses,resource description framework,Material,Material,0,1,0,0,0
+spatio temporal complex concept,uses,semantic web rule language,OtherEntity,Method,1,0,0,1,0
+ssa form,includes,reasoning,Method,Task,0,1,0,0,0
+stability,produces,reasoning,Metric,Task,0,1,0,0,0
+statebased approach,uses,web ontology language,Method,Material,1,1,1,0,1
+statemachines,based-on,reasoning,Method,Task,1,1,0,1,1
+storing unifiers,supports,reasoning,Method,Task,1,1,0,0,0
+systems of argumentation,acquires,reasoning,Method,Task,1,1,0,1,1
+tableau based algorithm,uses,reasoning,Method,Task,1,1,1,1,1
+taiwanese sign language,provides,reasoning,Material,Task,0,0,0,1,0
+tar algorithm,uses,reasoning,Method,Task,1,1,1,0,1
+tel data,uses,linked data,Material,Material,0,1,0,1,1
+temporal abstraction knowledge base,executes,reasoning,Material,Task,0,0,0,0,0
+temporal aliasing,executes,reasoning,OtherEntity,Task,0,1,0,0,0
+temporal aspects of information,uses,reasoning,OtherEntity,Task,0,0,0,1,0
+temporal encoding and decoding scheme,uses,resource description framework,Method,Material,0,1,0,0,0
+temporal logic,uses,reasoning,Method,Task,1,1,1,1,1
+test case generation,produces,semantic web service discovery,Task,Task,1,1,0,1,1
+tfl specification,provides,reasoning,OtherEntity,Task,0,1,1,1,1
+thekernel strategy,includes,reasoning,Method,Task,0,1,0,1,1
+time based trigger manager,based-on,sparql,Method,Method,0,0,0,1,0
+time granularity system,analyzes,reasoning,Task,Task,0,1,0,0,0
+tnbn model,uses,reasoning,Method,Task,0,1,1,0,1
+tool support,affects,semantic web service discovery,Method,Task,1,0,0,1,0
+transformation operation,proposes,reasoning,Method,Task,1,1,0,0,0
+trust computational rule,provides,reasoning,OtherEntity,Task,0,1,0,1,1
+usability assessment,adapts,ontology evaluation,Task,Task,1,1,0,1,1
+user query,produces,linked data,Material,Material,0,1,0,1,1
+veriws,acquires,semantic web service discovery,Method,Task,1,1,0,1,1
+video analysis result,based-on,reasoning,OtherEntity,Task,0,1,0,1,1
+visualization,supports,reasoning,Task,Task,1,1,1,1,1
+web ontology language,proposes,arbitrary graph data,Material,Material,0,1,0,1,1
+web ontology language,provides,consistent syntax,Material,OtherEntity,0,1,0,0,0
+web ontology language,skos:broader/is/hyponym-of,conveying guide rail,Material,OtherEntity,0,0,0,1,0
+web ontology language,provides,direct tableaux algorithm,Material,Method,0,0,0,0,0
+web ontology language,analyzes,end user degree of satisfaction,Material,Metric,0,0,0,0,0
+web ontology language,contributes-to,horn clause,Material,Method,0,0,0,0,0
+web ontology language,produces,image annotation,Material,Task,0,0,0,0,0
+web ontology language,executes,information storage and retrieval system,Material,Method,0,0,0,0,0
+web ontology language,provides,interactive online experience,Material,OtherEntity,0,0,0,0,0
+web ontology language,produces,knowledge based technology,Material,Method,0,0,0,0,0
+web ontology language,skos:broader/is/hyponym-of,knowledge representation language,Material,Method,1,0,0,0,0
+web ontology language,produces,location,Material,Task,0,0,0,1,0
+web ontology language,produces,lymphoid malignancy,Material,Task,0,0,0,0,0
+web ontology language,uses,machine learning method,Material,Method,0,0,0,0,0
+web ontology language,analyzes,mcmas p,Material,Method,0,0,0,0,0
+web ontology language,adapts,mref,Material,Task,0,0,0,0,0
+web ontology language,provides,multilingualism,Material,Material,0,1,0,0,0
+web ontology language,executes,music recommendation,Material,Task,0,0,0,1,0
+web ontology language,skos:broader/is/hyponym-of,numerical library,Material,Method,0,0,0,0,0
+web ontology language,acquires,online clinical case,Material,Material,0,0,0,0,0
+web ontology language,provides,ontological meaning of the concept,Material,OtherEntity,0,1,0,0,0
+web ontology language,skos:broader/is/hyponym-of,ontology integration,Material,Task,1,0,0,1,0
+web ontology language,provides,owl based model,Material,Method,0,0,0,0,0
+web ontology language,includes,owl dl power,Material,Method,0,0,0,0,0
+web ontology language,discusses,owl s language,Material,OtherEntity,0,1,0,0,0
+web ontology language,produces,plug in system,Material,Method,0,0,0,0,0
+web ontology language,uses,postgis,Material,Method,0,0,0,0,0
+web ontology language,supports,program semantics,Material,Task,1,1,1,0,1
+web ontology language,uses,propose and revise problem solver,Material,Method,0,0,0,1,0
+web ontology language,analyzes,qualified cardinality restriction,Material,OtherEntity,0,0,0,0,0
+web ontology language,supports,reasoning,Material,Task,1,1,0,0,0
+web ontology language,produces,resource description framework,Material,Material,0,1,0,1,1
+web ontology language,uses,semaps ontology,Material,OtherEntity,0,1,0,1,1
+web ontology language,discusses,service selection,Material,Task,0,0,0,0,0
+web ontology language,proposes,structural operational semantics,Material,Method,0,0,0,0,0
+web ontology language,skos:broader/is/hyponym-of,sws language,Material,OtherEntity,1,1,0,0,0
+web ontology language,produces,unidirectional forward transformation,Material,OtherEntity,0,0,0,0,0
+web system service,uses,reasoning,Task,Task,1,1,1,0,1
+web system service,improves,semantic web service discovery,Task,Task,1,1,1,1,1
+web system service,proposes,semantic web service discovery,Task,Task,1,1,0,1,1
+web system service,supports,semantic web service discovery,Task,Task,1,1,1,1,1
+web system service,uses,semantic web service discovery,Task,Task,1,1,1,1,1
+wikidata,includes,proximity of task,Material,Task,0,0,0,1,0
+wikigenomes,uses,wikidata,Material,Material,0,1,0,0,0
+wikipedia entry,acquires,dbpedia,Material,Material,0,1,0,1,1
+world wide web consortium have,proposes,resource description framework,Material,Material,0,1,0,0,0
+world wide web consortium have,proposes,web ontology language,Material,Material,0,1,0,0,0
+web page,uses,linked data,Material,Material,0,1,1,0,1
