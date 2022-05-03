@@ -1,0 +1,31 @@
+linked data
+ontology engineering
+ontology matching
+resource description framework
+semantic descriptions
+semantic search
+semantic social network analysis
+semantic web service
+web ontology language
+owl-s
+semantic web rule language
+dbpedia
+ontology learning
+rdf data
+rdf graph
+sparql
+wikidata
+linked open data
+ontology evolution
+ontology pattern
+ontology merging
+semantic web service
+ontology evaluation
+sparql query
+semantic web service discovery
+knowledge graph construction
+knowledge graph
+ontology web language
+owl
+reasoning
+semantic inference
