@@ -1,4 +1,4 @@
-subj,rel,obj,subj_type,obj_type,aikg,annotator 1,annotator 2,annotator 3,gs
+subj,rel,obj,subj_type,obj_type,cskg,annotator 1,annotator 2,annotator 3,gs
 a optimal projection aop,skos:broader/is/hyponym-of,dimensionality reduction,Method,Task,1,0,1,1,1
 acoustic event,solves,supervised machine learning,Material,Method,0,0,0,0,0
 adaptive action type selection method,uses,deep learning,Method,Method,0,1,0,0,0
