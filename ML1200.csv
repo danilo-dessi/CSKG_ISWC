@@ -1,0 +1,1201 @@
+subj,rel,obj,subj_type,obj_type,aikg,annotator 1,annotator 2,annotator 3,gs
+a optimal projection aop,skos:broader/is/hyponym-of,dimensionality reduction,Method,Task,1,0,1,1,1
+acoustic event,solves,supervised machine learning,Material,Method,0,0,0,0,0
+adaptive action type selection method,uses,deep learning,Method,Method,0,1,0,0,0
+adaptive ap,outperforms,cluster analysis,Method,Method,0,1,1,1,1
+adaptive boosting,uses,decision tree,Method,Method,1,1,1,1,1
+ads dataset,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+adversarial example,acquires,supervised machine learning,Material,Method,0,0,0,0,0
+aerial monitoring,uses,deep learning,Task,Method,0,1,0,1,1
+affective computational model,uses,deep learning,Method,Method,1,1,1,1,1
+affinity propagation,skos:broader/is/hyponym-of,cluster analysis,Method,Method,1,1,1,1,1
+age related bone development,uses,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+ai based system,uses,deep learning,Method,Method,1,1,1,1,1
+aircraft design purpose,uses,supervised machine learning,Task,Method,0,0,0,1,0
+algorithm approach,solves,cluster analysis,Method,Method,1,0,1,1,1
+analysis of multidimensional flows attribute,supports,cluster analysis,Task,Method,1,0,1,1,1
+analysis sensitivity,includes,supervised machine learning,OtherEntity,Method,0,0,1,0,0
+annotating data,learns,cluster analysis,Task,Method,0,0,0,0,0
+annotation term,uses,supervised machine learning,OtherEntity,Method,1,0,1,0,0
+anomaly detection,uses,cluster analysis,Task,Method,1,1,1,1,1
+anomaly detection,based-on,deep learning,Task,Method,1,1,1,1,1
+approximate probabilistic inference method,learns,link prediction,Method,Task,0,0,1,1,1
+arabic news story,uses,decision tree,Material,Method,0,0,0,0,0
+area ontology,produces,deep learning,OtherEntity,Method,0,0,0,0,0
+artificial and realworld datasets,analyzes,decision tree,Material,Method,0,0,0,0,0
+artificial intelligence,uses,deep learning,Task,Method,1,1,1,1,1
+artificial intelligence,uses,supervised machine learning,Task,Method,1,1,1,1,1
+artificial intelligence ai application domain,uses,deep learning,Task,Method,1,1,1,1,1
+artificial neural network interface,uses,decision tree,Method,Method,1,0,1,1,1
+association rule,produces,decision tree,Method,Method,1,1,1,1,1
+associative storage,uses,deep learning,Task,Method,1,1,0,0,0
+automated approach,uses,supervised machine learning,Method,Method,1,1,1,1,1
+automatic image processing operation,uses,deep learning,Method,Method,1,1,1,1,1
+automatic video analysis approach,uses,deep learning,Method,Method,1,1,0,1,1
+average of distance,provides,dimensionality reduction,Metric,Task,0,0,0,0,0
+average value of accuracy,acquires,supervised machine learning,Metric,Method,0,0,0,0,0
+balanced and class imbalanced datasets,analyzes,bayesian classifier,Material,Method,0,0,0,0,0
+barrier identifying device,uses,cluster analysis,Method,Method,0,0,0,0,0
+base classifier model,manages,decision tree,Method,Method,1,1,1,0,1
+base topic model,uses,hierarchical dirichlet process,Method,Method,1,1,1,1,1
+basic bayesian classifier,matches,bayesian classifier,Method,Method,1,1,1,1,1
+bayesian analysis,analyzes,supervised machine learning,Method,Method,1,0,1,1,1
+bayesian classification,skos:broader/is/hyponym-of,bayesian classifier,Method,Method,1,0,1,1,1
+bayesian classification,produces,decision tree,Method,Method,1,0,0,1,0
+bayesian classifier,uses,computer component,Method,Method,0,1,0,0,0
+bayesian classifier,executes,expectation step,Method,Method,0,1,1,0,1
+bayesian classifier,solves,incoming speech,Method,Material,1,0,0,0,0
+bayesian classifier,uses,membership matrix,Method,OtherEntity,1,1,1,1,1
+bayesian classifier,improves,power injection concept,Method,Method,0,0,0,1,0
+bayesian classifier,solves,reliability of spectrographic element,Method,OtherEntity,1,0,0,1,0
+bayesian classifier,uses,revised probability,Method,OtherEntity,1,1,1,1,1
+bayesian network structure,acquires,parameter learning,Method,Method,1,1,1,1,1
+behavioral phenotype,uses,cluster analysis,OtherEntity,Method,1,1,0,0,0
+benchmarking data,matches,cluster analysis,Material,Method,0,0,0,0,0
+benchmarking data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+benchmarks datasets,analyzes,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+benchmarks datasets,analyzes,supervised machine learning,OtherEntity,Method,1,0,1,0,0
+bengali,uses,deep learning,Material,Method,0,0,0,0,0
+big data reading,uses,supervised machine learning,OtherEntity,Method,0,1,0,1,1
+binary classification,uses,decision tree,Task,Method,1,1,1,1,1
+bioinformatics data,uses,ensemble learning,Material,Method,0,0,1,0,0
+biological and computational datasets,uses,supervised machine learning,Material,Method,0,0,0,0,0
+biological data mining,uses,pattern classification,Task,Task,1,1,1,1,1
+biomedical and clinical domain,uses,supervised machine learning,Material,Method,0,0,1,0,0
+biomedical prediction,acquires,cluster analysis,Task,Method,0,1,1,0,1
+biometric identification,uses,deep learning,Task,Method,1,1,1,1,1
+bit error rate ber simulation,outperforms,deep learning,Metric,Method,0,0,0,0,0
+blind receiver,includes,dimensionality reduction,Method,Task,0,1,0,0,0
+body response,uses,cluster analysis,OtherEntity,Method,0,0,0,1,0
+boundaries estimate,uses,decision tree,Method,Method,1,1,1,1,1
+business related application,includes,supervised machine learning,Task,Method,1,1,1,1,1
+calcaneus ct image,uses,deep learning,Material,Method,0,0,1,0,0
+case base,produces,decision tree,Material,Method,0,0,0,0,0
+categorical response data,adapts,cluster analysis,Material,Method,0,0,0,0,0
+chaid,skos:broader/is/hyponym-of,decision tree,Method,Method,1,1,1,1,1
+change rule,uses,deep learning,OtherEntity,Method,0,0,0,0,0
+channel acquisition overhead,learns,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+character recognition processing method,based-on,deep learning,Method,Method,1,1,1,1,1
+chinese character,uses,pattern classification,Material,Task,0,0,0,0,0
+chinese medicine vacuum sample,uses,cluster analysis,Material,Method,0,0,0,0,0
+chromaticity component,extracts,cluster analysis,Method,Method,0,0,0,0,0
+classification accuracy evaluation,analyzes,dimensionality reduction,Task,Task,1,1,1,1,1
+classification rule extraction process,based-on,decision tree,Method,Method,1,1,1,1,1
+classificationbased method,uses,decision tree,Method,Method,1,1,1,1,1
+classsification problem,uses,decision tree,Task,Method,1,1,1,0,1
+cleaned data set,uses,dimensionality reduction,Material,Task,0,0,0,0,0
+closed set classification task,acquires,deep learning,Task,Method,0,1,0,1,1
+cluster analysis,produces,actor q,Method,Method,0,0,0,1,0
+cluster analysis,based-on,adaptive circular filter,Method,Method,0,0,0,1,0
+cluster analysis,analyzes,adjacency matrix,Method,OtherEntity,1,1,1,1,1
+cluster analysis,includes,agglomerative hierarchical clustering algorithm,Method,Method,1,1,1,1,1
+cluster analysis,skos:broader/is/hyponym-of,algebraic and spectral method,Method,Method,1,1,1,0,1
+cluster analysis,improves,algorithm convergence analysis,Method,Method,1,1,1,0,1
+cluster analysis,uses,anisotropic neighborhood,Method,OtherEntity,0,1,0,1,1
+cluster analysis,uses,ant colony optimization,Method,Method,1,1,1,1,1
+cluster analysis,produces,approximated solution,Method,Method,1,1,1,1,1
+cluster analysis,based-on,association,Method,Task,1,1,1,1,1
+cluster analysis,limits,asymptotically tight bound,Method,OtherEntity,1,0,0,1,0
+cluster analysis,produces,binding algorithm,Method,Method,0,0,1,0,0
+cluster analysis,uses,bioinformatics,Method,Task,1,0,0,1,0
+cluster analysis,uses,biological repository,Method,Material,0,1,0,1,1
+cluster analysis,uses,cadenceaxlskill language,Method,OtherEntity,0,0,0,0,0
+cluster analysis,improves,circuit delay performance,Method,Metric,0,1,0,0,0
+cluster analysis,identifies,classsification problem,Method,Task,1,0,1,1,1
+cluster analysis,uses,cloud specific characteristic,Method,OtherEntity,0,0,0,0,0
+cluster analysis,affects,cluster center location,Method,OtherEntity,1,0,1,0,0
+cluster analysis,contributes-to,cluster definition,Method,Method,1,1,1,1,1
+cluster analysis,identifies,cluster definition,Method,Method,1,1,1,1,1
+cluster analysis,predicts,cluster definition,Method,Method,1,0,1,0,0
+cluster analysis,solves,cluster definition,Method,Method,1,1,1,0,1
+cluster analysis,supports,cluster definition,Method,Method,1,1,1,1,1
+cluster analysis,acquires,cluster head,Method,Method,1,1,1,0,1
+cluster analysis,uses,cluster validation,Method,Method,1,1,1,1,1
+cluster analysis,matches,clustering algorithms and technique,Method,Method,1,1,1,0,1
+cluster analysis,produces,clustering algorithms and technique,Method,Method,1,0,1,0,0
+cluster analysis,uses,clustering and concept learning technique,Method,Method,0,1,1,1,1
+cluster analysis,acquires,clustering centre,Method,OtherEntity,1,1,1,0,1
+cluster analysis,identifies,clustering centre,Method,OtherEntity,1,1,1,1,1
+cluster analysis,solves,clustering example,Method,Material,1,1,1,0,1
+cluster analysis,improves,clustering method,Method,Method,1,1,1,1,1
+cluster analysis,matches,clustering method,Method,Method,1,0,1,0,0
+cluster analysis,produces,clustering output,Method,OtherEntity,1,1,1,1,1
+cluster analysis,uses,clustering problem,Method,Task,1,0,1,1,1
+cluster analysis,produces,commercial company,Method,Material,0,0,0,0,0
+cluster analysis,solves,community,Method,Material,1,1,0,0,0
+cluster analysis,limits,computation resource and time cost,Method,Metric,1,1,1,1,1
+cluster analysis,produces,cone,Method,Method,1,0,0,0,0
+cluster analysis,acquires,constant expression,Method,OtherEntity,0,0,0,1,0
+cluster analysis,uses,contextual ambiguity,Method,OtherEntity,0,1,0,1,1
+cluster analysis,matches,continuous eigenvectors,Method,OtherEntity,0,0,0,0,0
+cluster analysis,based-on,control development,Method,Task,0,0,0,1,0
+cluster analysis,learns,crawling mechanism,Method,Method,0,0,0,0,0
+cluster analysis,skos:broader/is/hyponym-of,cumbersome processing step,Method,OtherEntity,1,0,0,0,0
+cluster analysis,skos:broader/is/hyponym-of,data and analysis technique,Method,Method,1,1,1,1,1
+cluster analysis,uses,data mining application system,Method,Method,1,1,1,1,1
+cluster analysis,supports,data routing idea,Method,Method,1,0,0,0,0
+cluster analysis,uses,dbscan like approach,Method,Method,1,1,1,1,1
+cluster analysis,uses,densities of data point,Method,OtherEntity,1,1,1,1,1
+cluster analysis,produces,dgsot algorithm,Method,Method,1,0,1,0,0
+cluster analysis,uses,direct current emergency load,Method,OtherEntity,0,0,1,0,0
+cluster analysis,skos:broader/is/hyponym-of,discovery procedure,Method,Method,1,1,1,1,1
+cluster analysis,based-on,dissimilarity value,Method,Metric,1,1,1,1,1
+cluster analysis,uses,distance function,Method,Method,1,1,1,1,1
+cluster analysis,uses,document clustering,Method,Task,1,1,1,1,1
+cluster analysis,uses,ensemble of clustering method,Method,Method,1,1,1,1,1
+cluster analysis,uses,entailment checking procedure,Method,Method,0,0,0,0,0
+cluster analysis,uses,entropy metric,Method,Metric,1,1,1,1,1
+cluster analysis,supports,estimated global optimal solution,Method,Method,0,1,0,1,1
+cluster analysis,uses,evolutionary optimization,Method,Method,1,1,1,1,1
+cluster analysis,uses,expectation maximization em based approach,Method,Method,1,1,1,1,1
+cluster analysis,outperforms,extensible application,Method,Task,0,0,0,0,0
+cluster analysis,executes,feature space,Method,OtherEntity,1,0,1,0,0
+cluster analysis,includes,feature space,Method,OtherEntity,1,0,1,1,1
+cluster analysis,uses,feature vector,Method,Method,1,1,1,1,1
+cluster analysis,uses,features selection technique,Method,Method,1,1,1,1,1
+cluster analysis,provides,fiber bundle,Method,OtherEntity,0,1,0,0,0
+cluster analysis,uses,fixed point iteration,Method,Method,1,1,1,1,1
+cluster analysis,provides,flat bed type optical scanner,Method,Method,0,0,0,0,0
+cluster analysis,affects,function surface complexity,Method,OtherEntity,0,0,0,0,0
+cluster analysis,improves,fuzzy c means approach,Method,Method,1,1,1,1,1
+cluster analysis,uses,fuzzy c-means,Method,Method,1,1,1,0,1
+cluster analysis,based-on,fuzzy string matching algorithm,Method,Method,1,0,1,1,1
+cluster analysis,uses,gaussian mixture model,Method,Method,1,1,1,1,1
+cluster analysis,based-on,generality calculation,Method,Method,0,0,0,0,0
+cluster analysis,uses,getem,Method,Method,0,0,0,0,0
+cluster analysis,uses,global density threshold,Method,OtherEntity,1,1,1,1,1
+cluster analysis,analyzes,global utility,Method,Metric,0,1,0,0,0
+cluster analysis,uses,gmm,Method,Method,1,1,1,1,1
+cluster analysis,produces,grapheme codebook,Method,OtherEntity,0,0,0,0,0
+cluster analysis,solves,grasped object,Method,Material,1,1,0,0,0
+cluster analysis,uses,grasping contact,Method,OtherEntity,0,0,0,0,0
+cluster analysis,uses,growing competitive neural network system,Method,Method,1,1,0,0,0
+cluster analysis,based-on,helicopter hovering simulator,Method,Method,0,0,0,0,0
+cluster analysis,uses,hier-archical clustering,Method,Method,1,1,1,0,1
+cluster analysis,uses,hierarchical amr tree,Method,OtherEntity,0,1,1,0,1
+cluster analysis,includes,highdimensional space,Method,Material,1,0,1,1,1
+cluster analysis,uses,human factor studies of mi,Method,Task,0,0,0,0,0
+cluster analysis,supports,human user,Method,Material,1,1,0,1,1
+cluster analysis,supports,information architecture,Method,Method,0,1,0,0,0
+cluster analysis,uses,information representing data,Method,OtherEntity,1,1,1,1,1
+cluster analysis,uses,integer linear programming ilp formulation,Method,Method,1,0,0,1,0
+cluster analysis,uses,intersequence resemblance,Method,OtherEntity,1,1,0,0,0
+cluster analysis,uses,joint data distribution,Method,OtherEntity,0,1,0,1,1
+cluster analysis,matches,k means clustering,Method,Method,1,0,1,1,1
+cluster analysis,uses,k means like algorithm,Method,Method,1,1,1,1,1
+cluster analysis,includes,k means like term,Method,OtherEntity,1,0,1,1,1
+cluster analysis,uses,large size database,Method,Material,1,1,1,1,1
+cluster analysis,manages,large sized data set,Method,Material,1,1,1,0,1
+cluster analysis,uses,ldpc and turbo decoder,Method,Method,0,0,0,0,0
+cluster analysis,uses,local refinement technique,Method,Method,0,1,1,1,1
+cluster analysis,uses,location information,Method,Task,1,1,1,1,1
+cluster analysis,skos:broader/is/hyponym-of,machine learning based algorithm,Method,Method,1,1,1,1,1
+cluster analysis,skos:broader/is/hyponym-of,machine learning based software,Method,Method,1,0,1,1,1
+cluster analysis,uses,manual rotary outer handle unlocking,Method,OtherEntity,0,0,0,0,0
+cluster analysis,analyzes,manually labeled data example,Method,Material,1,1,1,1,1
+cluster analysis,contributes-to,map-reduce,Method,Method,1,1,1,0,1
+cluster analysis,uses,mean shift,Method,Method,1,1,1,0,1
+cluster analysis,includes,medical image segmentation,Method,Task,1,1,1,1,1
+cluster analysis,outperforms,medical image segmentation,Method,Task,1,0,0,0,0
+cluster analysis,provides,model of computation,Method,Method,0,0,0,0,0
+cluster analysis,skos:broader/is/hyponym-of,modulus,Method,Metric,0,0,0,0,0
+cluster analysis,uses,morphological and syntactical approach,Method,Method,0,1,0,0,0
+cluster analysis,executes,moving and stationary image part,Method,OtherEntity,0,0,0,0,0
+cluster analysis,solves,multi clustering method,Method,Method,0,1,0,1,1
+cluster analysis,analyzes,mutual information,Method,Metric,1,1,1,1,1
+cluster analysis,uses,naive bayes nb model,Method,Method,0,0,0,1,0
+cluster analysis,skos:broader/is/hyponym-of,nodal measure,Method,Metric,0,0,0,0,0
+cluster analysis,matches,noise in question,Method,OtherEntity,0,0,0,0,0
+cluster analysis,analyzes,non parametric kernel learning,Method,Method,0,0,1,1,1
+cluster analysis,uses,normalisation method,Method,Method,1,1,1,1,1
+cluster analysis,produces,numeric data,Method,Material,1,1,1,1,1
+cluster analysis,provides,numerical optimization,Method,Method,1,1,1,0,1
+cluster analysis,uses,numerical optimization,Method,Method,1,1,1,0,1
+cluster analysis,based-on,ontology integration,Method,Task,1,1,0,0,0
+cluster analysis,learns,optimal compact codebooks,Method,OtherEntity,1,0,0,0,0
+cluster analysis,uses,ordinal query,Method,OtherEntity,0,0,0,0,0
+cluster analysis,based-on,parameter learning,Method,Method,1,1,1,1,1
+cluster analysis,classifies,patient to patient interaction,Method,OtherEntity,0,0,0,1,0
+cluster analysis,uses,pattern of similarity,Method,OtherEntity,1,1,1,1,1
+cluster analysis,uses,pcds approach,Method,Method,0,0,0,0,0
+cluster analysis,uses,peak flow rate,Method,OtherEntity,0,0,0,0,0
+cluster analysis,matches,pesa ii,Method,Method,1,0,0,0,0
+cluster analysis,produces,points attractor,Method,OtherEntity,0,0,0,0,0
+cluster analysis,acquires,power distribution device,Method,Method,0,0,0,0,0
+cluster analysis,uses,principle component analysis,Method,Method,1,1,1,1,1
+cluster analysis,uses,prior knowledge of cluster membership,Method,OtherEntity,0,1,1,1,1
+cluster analysis,manages,priori classification scheme,Method,Method,0,1,0,0,0
+cluster analysis,uses,probabilistic model of shape geometry,Method,Method,0,1,0,0,0
+cluster analysis,uses,programable graphics hardware,Method,OtherEntity,0,1,0,0,0
+cluster analysis,produces,radar emitter classification,Method,Task,0,1,0,0,0
+cluster analysis,matches,radio communications signal,Method,Material,0,0,0,0,0
+cluster analysis,uses,random diversification of node density,Method,OtherEntity,0,1,1,0,1
+cluster analysis,acquires,random local image feature,Method,OtherEntity,0,1,0,0,0
+cluster analysis,based-on,random walk method,Method,Method,1,1,0,1,1
+cluster analysis,identifies,rare sen,Method,OtherEntity,1,0,0,0,0
+cluster analysis,uses,rational reasoning capability,Method,OtherEntity,0,1,0,1,1
+cluster analysis,uses,raw data set,Method,Material,1,1,1,1,1
+cluster analysis,analyzes,real number of cluster,Method,OtherEntity,1,1,1,1,1
+cluster analysis,uses,real world heterogeneous information network,Method,Task,0,1,0,1,1
+cluster analysis,uses,rule base,Method,Method,1,1,0,1,1
+cluster analysis,limits,search process time,Method,Metric,1,1,1,1,1
+cluster analysis,uses,self organizing map som approach,Method,Method,1,1,1,0,1
+cluster analysis,uses,semi supervised projected clustering algorithm,Method,Method,1,1,1,0,1
+cluster analysis,contributes-to,sensor network,Method,Method,1,1,0,1,1
+cluster analysis,uses,similarity measuring function,Method,Method,1,1,1,1,1
+cluster analysis,extracts,spatially oriented wafer map,Method,OtherEntity,0,1,0,0,0
+cluster analysis,uses,spectral based algorithm,Method,Method,1,1,1,0,1
+cluster analysis,produces,speech primitive model,Method,Method,0,0,0,0,0
+cluster analysis,includes,sql statement option,Method,OtherEntity,0,0,0,0,0
+cluster analysis,skos:broader/is/hyponym-of,statistical methods and application,Method,Method,1,1,1,1,1
+cluster analysis,uses,statistical model selection,Method,Task,1,1,1,1,1
+cluster analysis,produces,sub aggregated piece,Method,OtherEntity,0,0,0,0,0
+cluster analysis,uses,subnetwork marker,Method,OtherEntity,0,1,0,1,1
+cluster analysis,skos:broader/is/hyponym-of,supervised classification learning method,Method,Method,1,0,0,1,0
+cluster analysis,includes,supervised machine learning,Method,Method,1,1,0,0,0
+cluster analysis,uses,supervised machine learning,Method,Method,1,1,0,1,1
+cluster analysis,uses,support vector machines based approach,Method,Method,1,1,0,0,0
+cluster analysis,skos:broader/is/hyponym-of,tcp prediction,Method,OtherEntity,0,0,0,0,0
+cluster analysis,matches,temporal variability,Method,OtherEntity,0,0,0,0,0
+cluster analysis,uses,text pre processing technique,Method,Method,1,1,1,0,1
+cluster analysis,based-on,third generation x ray source,Method,Task,0,0,0,0,0
+cluster analysis,supports,time series dataset,Method,Material,0,0,1,1,1
+cluster analysis,supports,topological information,Method,OtherEntity,1,1,1,1,1
+cluster analysis,executes,track extraction algorithm,Method,Method,0,0,1,0,0
+cluster analysis,uses,transformer binding post,Method,OtherEntity,0,0,0,0,0
+cluster analysis,uses,transforming data set,Method,Task,0,1,0,1,1
+cluster analysis,includes,twist in subspace approach,Method,Method,0,0,0,0,0
+cluster analysis,manages,un relaxed problem,Method,Task,0,0,0,0,0
+cluster analysis,analyzes,unified framework model,Method,Method,1,0,0,0,0
+cluster analysis,acquires,unknown application class,Method,OtherEntity,1,0,0,0,0
+cluster analysis,uses,unsupervised clustering algorithm,Method,Method,1,1,1,0,1
+cluster analysis,analyzes,unsupervised learning,Method,Method,1,1,1,1,1
+cluster analysis,based-on,vanet,Method,Method,1,0,1,0,0
+cluster analysis,uses,visualization,Method,Task,1,1,1,1,1
+cluster analysis,learns,web data mining,Method,Task,1,0,1,1,1
+cluster analysis,skos:broader/is/hyponym-of,web data mining,Method,Task,1,0,1,1,1
+cluster analysis,identifies,weighted feature vector,Method,OtherEntity,0,1,1,1,1
+cluster analysis,uses,weighted low rank approximation,Method,Method,0,1,1,1,1
+cluster assignment,uses,deep learning,Method,Method,0,1,1,1,1
+cluster based algorithm,includes,cluster analysis,Method,Method,1,1,1,0,1
+cluster definition,executes,cluster analysis,Method,Method,1,1,1,0,1
+cluster definition,includes,cluster analysis,Method,Method,1,1,1,0,1
+cluster validity metric,analyzes,cluster analysis,Metric,Method,1,1,1,0,1
+clustering energy consumption,matches,cluster analysis,Metric,Method,0,0,0,0,0
+clustering error rate,proposes,cluster analysis,Metric,Method,0,0,0,0,0
+clustering example,acquires,cluster analysis,Material,Method,0,0,0,0,0
+clustering method,acquires,cluster analysis,Method,Method,1,1,1,0,1
+clustering method,analyzes,cluster analysis,Method,Method,1,1,1,0,1
+clustering method,uses,cluster analysis,Method,Method,1,1,1,1,1
+clustering of the text document,uses,cluster analysis,Task,Method,1,1,1,1,1
+clustering overhead,matches,cluster analysis,Metric,Method,0,0,0,0,0
+clustering validation measure,uses,cluster analysis,Metric,Method,1,0,1,0,0
+clusters of shape,uses,cluster analysis,OtherEntity,Method,1,1,1,0,1
+code book,proposes,supervised machine learning,Material,Method,0,0,0,0,0
+codebook of possible discrete observation,uses,cluster analysis,OtherEntity,Method,0,0,0,1,0
+color based segmentation technique,supports,dimensionality reduction,Method,Task,0,1,1,0,1
+column,uses,supervised machine learning,Material,Method,0,0,0,0,0
+commitment and understanding store,acquires,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+common shared subspace,manages,dimensionality reduction,OtherEntity,Task,0,1,1,0,1
+common terminology,acquires,cluster analysis,Material,Method,0,0,0,0,0
+community,uses,cluster analysis,Material,Method,0,0,0,0,0
+complete data source,uses,cluster analysis,Material,Method,0,0,0,0,0
+complex activity,uses,cluster analysis,Material,Method,0,0,0,0,0
+component selective encoding,learns,deep learning,Method,Method,0,0,0,0,0
+comprehensive top down scheme,uses,decision tree,Method,Method,1,1,0,1,1
+computational and numerical technique,includes,supervised machine learning,Method,Method,1,0,1,1,1
+computational and numerical technique,uses,supervised machine learning,Method,Method,1,0,1,1,1
+computational power,includes,supervised machine learning,Metric,Method,0,0,0,0,0
+conditional modeling approach,uses,supervised machine learning,Method,Method,0,1,1,1,1
+confidence module,uses,supervised machine learning,Method,Method,0,0,0,1,0
+conformational b cell epitope residue,uses,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+consensus building,uses,cluster analysis,Task,Method,1,1,0,0,0
+consolidation technique,acquires,deep learning,Method,Method,0,0,0,0,0
+constrained agglomerative method,guides,cluster analysis,Method,Method,1,1,1,1,1
+context data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+context dependent bigram,acquires,cluster analysis,Method,Method,0,0,0,0,0
+context of consecutive feature vector,executes,deep learning,OtherEntity,Method,0,0,0,0,0
+continuous action mdps,uses,deep learning,Method,Method,0,1,0,0,0
+converged center,acquires,cluster analysis,OtherEntity,Method,1,0,0,0,0
+conversation based messaging system,matches,cluster analysis,Method,Method,0,0,0,0,0
+corpus based and structural approach,uses,cluster analysis,Method,Method,0,1,0,0,0
+cross terminology translation,uses,supervised machine learning,Material,Method,0,0,1,1,1
+cryptographic primitive,uses,supervised machine learning,Method,Method,0,0,0,1,0
+ct reconstruction,based-on,supervised machine learning,Task,Method,0,1,1,1,1
+daikon invariant inference tool,produces,cluster analysis,Method,Method,0,0,0,0,0
+data analytics,uses,deep learning,Task,Method,1,1,1,0,1
+data augmentation,based-on,deep learning,Task,Method,1,1,1,0,1
+data augmentation,includes,deep learning,Task,Method,1,1,1,0,1
+data augmentation,uses,supervised machine learning,Task,Method,1,1,1,0,1
+data driven supervised approach,based-on,deep learning,Method,Method,1,1,1,1,1
+data load format,uses,cluster analysis,OtherEntity,Method,0,0,0,0,0
+data mining processes and technique,includes,decision tree,Method,Method,1,1,1,1,1
+data mining related problem,uses,deep learning,Task,Method,1,1,1,1,1
+data movement information,limits,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+data parallel code,improves,cluster analysis,Method,Method,0,1,1,1,1
+data parallel code,uses,cluster analysis,Method,Method,0,1,0,1,1
+data partition,uses,cluster analysis,OtherEntity,Method,1,0,1,0,0
+data point,produces,cluster analysis,OtherEntity,Method,1,0,0,0,0
+data preprocessing process,uses,cluster analysis,Method,Method,1,1,1,0,1
+data set,processes,cluster analysis,Material,Method,0,0,0,0,0
+data set,acquires,supervised machine learning,Material,Method,0,0,0,0,0
+data set,uses,supervised machine learning,Material,Method,0,0,0,0,0
+data stream,uses,supervised machine learning,Material,Method,0,0,0,0,0
+database system,matches,cluster analysis,Material,Method,0,0,0,0,0
+database system,uses,cluster analysis,Material,Method,0,0,0,0,0
+database system,includes,supervised machine learning,Material,Method,0,0,0,0,0
+datasets of product review data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+dci paradigm,guides,cluster analysis,Method,Method,0,0,0,1,0
+dcnns lr classifier,based-on,deep learning,Method,Method,1,1,0,1,1
+decentralized control mode,uses,cluster analysis,Task,Method,0,1,0,1,1
+decision bee,includes,supervised machine learning,Method,Method,0,0,0,1,0
+decision boundary,produces,pattern classification,Task,Task,1,1,0,1,1
+decision forests of tree,based-on,decision tree,OtherEntity,Method,1,1,1,1,1
+decision tree,provides,average value of accuracy,Method,Metric,1,1,1,1,1
+decision tree,skos:broader/is/hyponym-of,base learner,Method,Method,1,1,1,1,1
+decision tree,uses,bit value,Method,Method,1,0,0,1,0
+decision tree,provides,changing policy,Method,OtherEntity,1,0,0,1,0
+decision tree,learns,classification criterion,Method,Metric,0,1,0,1,1
+decision tree,uses,classification model framework,Method,Method,1,1,1,1,1
+decision tree,skos:broader/is/hyponym-of,data classification,Method,Task,1,0,1,1,1
+decision tree,skos:broader/is/hyponym-of,data mining based method,Method,Method,1,1,1,1,1
+decision tree,uses,decision tree induction methodology,Method,Method,1,1,1,1,1
+decision tree,based-on,dynamic programming search method,Method,Method,1,1,0,1,1
+decision tree,executes,evaluation metric measure,Method,Metric,0,0,1,1,1
+decision tree,acquires,feature subset solution,Method,OtherEntity,1,1,1,1,1
+decision tree,uses,features selection technique,Method,Method,1,1,1,1,1
+decision tree,based-on,feedforward neural network,Method,Method,1,0,0,1,0
+decision tree,uses,feedforward neural network,Method,Method,1,0,0,1,0
+decision tree,manages,functional input variable,Method,OtherEntity,1,0,0,1,0
+decision tree,uses,fuzzy expert system,Method,Method,1,1,0,1,1
+decision tree,uses,fuzzy logic inference,Method,Method,1,1,0,1,1
+decision tree,includes,heterogeneous structure,Method,OtherEntity,1,0,0,1,0
+decision tree,uses,hevc transcoding model,Method,Method,0,1,0,1,1
+decision tree,produces,id3 algorithm,Method,Method,1,1,1,1,1
+decision tree,uses,information gain value,Method,Metric,1,1,1,1,1
+decision tree,skos:broader/is/hyponym-of,intelligent system and method,Method,Method,1,1,1,1,1
+decision tree,skos:broader/is/hyponym-of,learning algorithms and procedure,Method,Method,1,1,1,1,1
+decision tree,skos:broader/is/hyponym-of,learning based approach,Method,Method,1,1,1,1,1
+decision tree,improves,learning process aspect,Method,OtherEntity,1,1,1,1,1
+decision tree,uses,linear structured chromosome,Method,OtherEntity,0,1,0,0,0
+decision tree,uses,lookup memory,Method,OtherEntity,0,1,0,1,1
+decision tree,skos:broader/is/hyponym-of,machine learning method,Method,Method,1,1,1,1,1
+decision tree,includes,medical science,Method,Task,1,0,0,1,0
+decision tree,extracts,naive bayesian classifier,Method,Method,1,0,0,0,0
+decision tree,skos:broader/is/hyponym-of,named entity candidate,Method,OtherEntity,0,0,0,1,0
+decision tree,uses,network intrusion detection,Method,Task,1,1,0,1,1
+decision tree,executes,non uniform probability distribution,Method,Method,0,1,0,1,1
+decision tree,solves,offline password guessing attack,Method,Task,1,1,0,0,0
+decision tree,analyzes,pattern of the foot disorder,Method,Task,1,1,0,0,0
+decision tree,skos:broader/is/hyponym-of,pattern recognition based system,Method,Method,1,1,1,1,1
+decision tree,annotates,pedestrian in,Method,Method,1,0,0,0,0
+decision tree,includes,plurality of second node,Method,OtherEntity,1,0,0,0,0
+decision tree,acquires,preferred action,Method,OtherEntity,1,1,0,0,0
+decision tree,uses,preprocessing and postprocessing method,Method,Method,1,1,1,1,1
+decision tree,based-on,probabilistic framework,Method,Method,1,1,0,1,1
+decision tree,identifies,problem independent and scalable architecture,Method,Method,0,0,0,0,0
+decision tree,uses,production rule,Method,Method,1,1,1,1,1
+decision tree,uses,real time data reading,Method,Task,0,1,0,0,0
+decision tree,produces,recognition network representation,Method,Method,0,1,0,0,0
+decision tree,contributes-to,river problem,Method,Task,0,1,0,0,0
+decision tree,matches,rough set theory,Method,Method,1,0,1,1,1
+decision tree,produces,rule base,Method,Method,1,1,1,1,1
+decision tree,uses,shapelets,Method,Method,0,1,0,0,0
+decision tree,uses,sleeps stage,Method,OtherEntity,0,1,0,0,0
+decision tree,solves,square pyramidal cu ii coordination,Method,OtherEntity,0,0,0,0,0
+decision tree,manages,stream data,Method,Material,1,1,0,1,1
+decision tree,matches,structured label,Method,OtherEntity,0,0,0,0,0
+decision tree,uses,subhidden layer,Method,OtherEntity,1,0,1,0,0
+decision tree,uses,subsequence,Method,Material,1,1,0,0,0
+decision tree,matches,supervised classification,Method,Task,1,1,1,1,1
+decision tree,skos:broader/is/hyponym-of,supervised classification learning method,Method,Method,1,1,1,1,1
+decision tree,includes,visual temporal context,Method,OtherEntity,0,1,0,0,0
+decision tree,includes,web data mining,Method,Task,1,0,1,0,0
+decision tree,solves,web data mining,Method,Task,1,1,1,1,1
+deep learning,supports,algorithmic trading,Method,Task,1,1,1,1,1
+deep learning,executes,anatomical object,Method,Material,0,0,0,1,0
+deep learning,adapts,automatic feature construction method,Method,Method,1,1,1,1,1
+deep learning,uses,backpropagation network,Method,Method,1,1,1,1,1
+deep learning,uses,basket recommendation,Method,Task,0,1,0,0,0
+deep learning,improves,belief propagation algorithm,Method,Method,1,1,0,1,1
+deep learning,identifies,cable fault,Method,OtherEntity,1,1,0,0,0
+deep learning,improves,canonical correlation analysis,Method,Method,1,1,1,0,1
+deep learning,uses,cltorch,Method,Method,0,1,0,1,1
+deep learning,provides,cognitive model,Method,Method,1,1,1,1,1
+deep learning,improves,computing hardware device,Method,Method,1,1,0,0,0
+deep learning,extracts,continuous emotional care,Method,OtherEntity,0,1,0,0,0
+deep learning,uses,convolutional neural cnn network,Method,Method,1,1,1,1,1
+deep learning,improves,cyclic autocorrelation,Method,OtherEntity,0,1,0,1,1
+deep learning,produces,data augmentation,Method,Task,1,1,1,1,1
+deep learning,uses,data augmentation,Method,Task,1,1,1,1,1
+deep learning,executes,deep artificial neural network,Method,Method,1,0,1,1,1
+deep learning,supports,deep learning assisted echocardiographic interpretation,Method,Task,1,1,1,1,1
+deep learning,based-on,deep regionlets,Method,Method,0,1,1,1,1
+deep learning,produces,density map representation,Method,Method,1,1,0,1,1
+deep learning,uses,density profile,Method,Method,1,1,0,0,0
+deep learning,produces,discriminative manifold learning method,Method,Method,1,1,0,0,0
+deep learning,based-on,dynamic patch based sampling algorithm,Method,Method,0,0,1,0,0
+deep learning,learns,embedding method,Method,Method,1,0,1,1,1
+deep learning,uses,encrypted data,Method,Material,1,1,1,1,1
+deep learning,identifies,experiment narrative,Method,Material,0,1,0,1,1
+deep learning,based-on,exporting 3d graphic,Method,Method,0,0,0,0,0
+deep learning,acquires,face recognition,Method,Task,1,0,1,1,1
+deep learning,provides,face recognition,Method,Task,1,1,1,1,1
+deep learning,uses,features representation capability,Method,OtherEntity,1,1,1,1,1
+deep learning,supports,feedforward neural network,Method,Method,1,0,1,1,1
+deep learning,predicts,forced alignment system,Method,Method,0,0,0,0,0
+deep learning,produces,fuzzy relevance profile,Method,OtherEntity,0,0,0,1,0
+deep learning,affects,handmade filter,Method,Method,1,0,0,0,0
+deep learning,produces,hatnoodle device,Method,Method,0,0,0,0,0
+deep learning,extracts,hierarchical feature representation,Method,Method,1,1,1,1,1
+deep learning,based-on,high speed ball screw,Method,OtherEntity,0,0,0,0,0
+deep learning,improves,image level super resolution,Method,Task,1,1,1,1,1
+deep learning,learns,image pixel intensity,Method,OtherEntity,1,1,1,1,1
+deep learning,uses,image to image prediction,Method,Task,1,1,1,1,1
+deep learning,uses,interactive toolkit library,Method,Method,0,0,1,1,1
+deep learning,predicts,joint 3d location,Method,OtherEntity,1,1,0,1,1
+deep learning,uses,keras library,Method,Method,1,1,1,1,1
+deep learning,analyzes,kernel weight vector,Method,OtherEntity,0,1,0,1,1
+deep learning,solves,latent code,Method,OtherEntity,1,1,0,1,1
+deep learning,uses,legal scholarship,Method,Method,0,0,0,0,0
+deep learning,predicts,lms system,Method,Method,0,0,0,1,0
+deep learning,learns,low and mid level feature,Method,OtherEntity,1,1,1,1,1
+deep learning,provides,machine based learning,Method,Method,1,1,1,1,1
+deep learning,includes,machine learning method,Method,Method,1,1,1,1,1
+deep learning,acquires,material recognition,Method,Task,1,0,1,0,0
+deep learning,executes,mean square,Method,Metric,0,1,0,1,1
+deep learning,includes,medical image computing,Method,Task,1,1,1,1,1
+deep learning,produces,modal framework,Method,Method,0,1,0,1,1
+deep learning,produces,monocular sequence of image,Method,Material,1,1,0,1,1
+deep learning,skos:broader/is/hyponym-of,multiple layer network,Method,Method,1,1,0,1,1
+deep learning,uses,mutation operations method,Method,Method,0,0,0,1,0
+deep learning,learns,nature feature,Method,OtherEntity,1,1,0,0,0
+deep learning,produces,network architecture,Method,Method,1,1,0,1,1
+deep learning,includes,non linear mapping capability,Method,OtherEntity,1,1,1,0,1
+deep learning,based-on,object detection method,Method,Method,1,0,1,0,0
+deep learning,acquires,operator valued kernel,Method,OtherEntity,0,1,0,1,1
+deep learning,uses,optimally taxing subnetworks,Method,Task,0,0,0,0,0
+deep learning,uses,partitioned data set,Method,Material,1,1,1,1,1
+deep learning,uses,position collecting module,Method,Method,0,0,0,0,0
+deep learning,includes,power grid device,Method,Method,0,0,0,0,0
+deep learning,uses,quantum mechanical qm dft calculation,Method,Method,0,0,0,0,0
+deep learning,provides,radical break,Method,OtherEntity,0,0,0,1,0
+deep learning,extracts,raw data set,Method,Material,1,1,0,0,0
+deep learning,uses,raw data set,Method,Material,1,1,1,1,1
+deep learning,includes,recommendation system,Method,Method,1,1,1,1,1
+deep learning,includes,rectangular selection area,Method,OtherEntity,0,1,0,1,1
+deep learning,uses,recurrent neural network,Method,Method,1,1,1,1,1
+deep learning,outperforms,relative clustering validity index,Method,Metric,0,0,0,1,0
+deep learning,based-on,rendering and modeling,Method,Task,0,0,1,0,0
+deep learning,includes,representation vector generation network,Method,Method,1,1,1,0,1
+deep learning,extracts,richer bilingual constraint,Method,OtherEntity,0,1,0,1,1
+deep learning,uses,risk function,Method,Method,1,1,0,0,0
+deep learning,based-on,s lstm,Method,Method,1,0,1,1,1
+deep learning,uses,s sgd,Method,Method,1,1,1,1,1
+deep learning,produces,second matching model,Method,OtherEntity,0,0,0,0,0
+deep learning,uses,second order operation,Method,OtherEntity,0,1,0,1,1
+deep learning,learns,similarity measure metric,Method,Metric,0,1,1,1,1
+deep learning,uses,smoothing method,Method,Method,0,1,1,1,1
+deep learning,provides,soft sensor modeling approach,Method,Method,1,1,0,1,1
+deep learning,learns,spectral mapping method,Method,Method,1,1,0,1,1
+deep learning,provides,speech recognition software,Method,Method,1,1,0,1,1
+deep learning,uses,speech recognition software,Method,Method,1,1,0,0,0
+deep learning,solves,state estimation information,Method,OtherEntity,0,1,0,0,0
+deep learning,analyzes,sub regional distribution of wealth,Method,OtherEntity,1,1,0,0,0
+deep learning,uses,supervised classification,Method,Task,1,1,1,1,1
+deep learning,provides,supervised machine learning,Method,Method,1,1,1,1,1
+deep learning,uses,supervised machine learning,Method,Method,1,1,1,1,1
+deep learning,produces,terminal operation and control method,Method,Method,0,0,0,0,0
+deep learning,matches,text data,Method,Material,0,0,1,0,0
+deep learning,improves,tpl friendly design,Method,Method,0,0,0,0,0
+deep learning,based-on,trend prediction classification framework,Method,Method,0,1,1,0,1
+deep learning,skos:broader/is/hyponym-of,unexplained tectonic activity,Method,OtherEntity,0,0,0,0,0
+deep learning,includes,unsupervised and supervised learning problem,Method,Task,1,1,1,0,1
+deep learning,identifies,users data behavior,Method,OtherEntity,1,1,1,1,1
+deep learning,analyzes,value function,Method,Method,1,1,0,1,1
+deep learning,improves,visual detecting method,Method,Method,1,1,1,1,1
+deep learning,supports,wireless interference limited network,Method,Task,0,0,0,0,0
+deep learning,uses,word table,Method,OtherEntity,1,1,0,0,0
+deep learning toolkit,improves,supervised machine learning,Method,Method,1,1,1,1,1
+deep model feature,matches,dimensionality reduction,OtherEntity,Task,0,0,1,0,0
+deep neutral network,uses,deep learning,Method,Method,1,1,1,1,1
+demographically tagged blog corpus,produces,supervised machine learning,Material,Method,0,0,0,0,0
+depth map,produces,cluster analysis,Material,Method,0,1,0,0,0
+depth uncertainty area,uses,deep learning,OtherEntity,Method,0,0,0,0,0
+descriptor,uses,supervised machine learning,Method,Method,1,1,0,1,1
+detection algorithm,uses,deep learning,Method,Method,1,1,1,1,1
+detection of the spam email,uses,bayesian classifier,Task,Method,1,1,1,1,1
+detection operation speed,identifies,ensemble learning,Metric,Method,0,0,0,0,0
+detector of facial landmark,uses,decision tree,OtherEntity,Method,0,1,0,0,0
+digital three axis stabilized platform,uses,cluster analysis,Method,Method,0,1,0,0,0
+dimensionality,identifies,cluster analysis,Metric,Method,0,0,0,0,0
+dimensionality reduction,uses,american football games network,Task,Material,0,1,0,0,0
+dimensionality reduction,provides,archetype term,Task,OtherEntity,0,0,0,0,0
+dimensionality reduction,limits,batch mode framework,Task,Method,0,0,0,0,0
+dimensionality reduction,classifies,class distribution,Task,OtherEntity,0,1,0,0,0
+dimensionality reduction,manages,compact representation,Task,Method,1,1,1,1,1
+dimensionality reduction,improves,computational efficiency,Task,Metric,1,1,1,1,1
+dimensionality reduction,acquires,coupling concept,Task,OtherEntity,0,0,0,0,0
+dimensionality reduction,uses,dbn pretraining,Task,Task,0,1,0,1,1
+dimensionality reduction,uses,feature vector,Task,Method,1,1,1,1,1
+dimensionality reduction,uses,feedforward neural network,Task,Method,1,1,1,1,1
+dimensionality reduction,skos:broader/is/hyponym-of,functionally complementary process,Task,OtherEntity,0,1,0,1,1
+dimensionality reduction,matches,gpcs,Task,Method,0,1,0,0,0
+dimensionality reduction,uses,high computing platform,Task,Method,0,1,1,0,1
+dimensionality reduction,uses,institutional authentication infrastructure,Task,Method,0,1,0,0,0
+dimensionality reduction,uses,lda g,Task,Method,1,1,1,0,1
+dimensionality reduction,manages,local geometry,Task,OtherEntity,1,1,1,1,1
+dimensionality reduction,matches,low dimensional coordinate,Task,OtherEntity,0,1,1,1,1
+dimensionality reduction,uses,manifold learning,Task,Method,1,1,0,1,1
+dimensionality reduction,skos:broader/is/hyponym-of,model generation activity,Task,Method,1,0,1,0,0
+dimensionality reduction,uses,modified lens design,Task,Method,0,0,0,0,0
+dimensionality reduction,uses,non-negative matrix factorization,Task,Method,1,1,1,1,1
+dimensionality reduction,uses,perspective projection,Task,Method,1,0,1,1,1
+dimensionality reduction,matches,plug in solution,Task,Method,0,0,0,0,0
+dimensionality reduction,uses,poisson factor analysis model,Task,Method,0,1,0,1,1
+dimensionality reduction,uses,preprocessing and postprocessing method,Task,Method,1,1,1,1,1
+dimensionality reduction,uses,principal component analysis based method,Task,Method,1,1,1,1,1
+dimensionality reduction,uses,principal components analysis pca approach,Task,Method,1,1,1,1,1
+dimensionality reduction,includes,principle component analysis,Task,Method,1,1,1,1,1
+dimensionality reduction,produces,principle component analysis,Task,Method,1,1,1,1,1
+dimensionality reduction,provides,processing of large data,Task,Task,1,1,1,1,1
+dimensionality reduction,transfers,quotient fused image,Task,Material,0,0,0,0,0
+dimensionality reduction,based-on,random projection,Task,Method,1,0,1,1,1
+dimensionality reduction,includes,reconstruction error erom,Task,OtherEntity,1,0,0,0,0
+dimensionality reduction,acquires,retrieval performance,Task,Metric,1,0,1,0,0
+dimensionality reduction,limits,sample complexity,Task,Metric,0,1,0,1,1
+dimensionality reduction,improves,serial multimodal biometric system,Task,Task,0,1,0,1,1
+dimensionality reduction,provides,symbol estimate,Task,Task,0,0,0,1,0
+dimensionality reduction,uses,unified approach,Task,Method,1,0,0,1,0
+dimensionality reduction,uses,value sensor,Task,OtherEntity,0,1,0,0,0
+dimensionality reduction vector matrix,uses,dimensionality reduction,OtherEntity,Task,0,1,0,1,1
+discriminant feature subset,uses,dimensionality reduction,OtherEntity,Task,0,1,1,1,1
+discriminative dictionary,includes,supervised machine learning,Method,Method,1,0,0,1,0
+displacement estimation algorithm,acquires,cluster analysis,Method,Method,0,1,0,0,0
+distant cell tower,uses,deep learning,OtherEntity,Method,0,0,0,0,0
+document image,uses,deep learning,Material,Method,0,0,0,0,0
+document retrieval,uses,dimensionality reduction,Task,Task,1,1,1,1,1
+domain ontology,improves,supervised machine learning,Material,Method,1,0,1,1,1
+dresden image database,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+drug se pair,uses,supervised machine learning,Material,Method,0,0,0,0,0
+economics,proposes,cluster analysis,Material,Method,0,0,0,0,0
+electrical generator,uses,supervised machine learning,Method,Method,0,1,0,0,0
+embedded,uses,deep learning,Method,Method,1,0,0,0,0
+embedded software synthesis approach,based-on,cluster analysis,Method,Method,0,1,1,0,1
+energy efficiency,produces,cluster analysis,Metric,Method,0,1,0,0,0
+ensemble classification,uses,decision tree,Task,Method,1,1,1,1,1
+ensemble learning,improves,base learner,Method,Method,1,1,1,1,1
+ensemble learning,analyzes,intrinsic geometry of the manifold,Method,OtherEntity,0,1,0,0,0
+ensemble learning,produces,markov chain monte carlo calculation,Method,Method,0,1,1,0,1
+ensemble learning,improves,prediction accuracy and efficiency,Method,Metric,1,1,1,1,1
+ensemble learning,manages,two class imbalance problem,Method,Task,1,1,1,1,1
+ensemble local search,uses,deep learning,Method,Method,0,1,1,1,1
+entirely deterministic method,produces,decision tree,Method,Method,1,0,1,0,0
+error and failure dependency,uses,cluster analysis,OtherEntity,Method,0,0,0,0,0
+error rate estimator,analyzes,cluster analysis,Method,Method,1,0,1,1,1
+es kmeans,skos:broader/is/hyponym-of,cluster analysis,Method,Method,1,1,1,1,1
+estimation of distribution algorithms eda,uses,cluster analysis,Method,Method,0,1,1,1,1
+evalita 2009 ner benchmark,analyzes,deep learning,Material,Method,0,0,0,0,0
+evaluation and,uses,supervised machine learning,Task,Method,1,0,0,0,0
+evaluation request,manages,deep learning,Task,Method,0,0,0,0,0
+evolved tree,matches,decision tree,OtherEntity,Method,0,0,0,0,0
+existing measure,uses,cluster analysis,OtherEntity,Method,1,1,0,0,0
+existing method,executes,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+expression profile data,uses,cluster analysis,Material,Method,0,0,0,0,0
+expression recognition,uses,deep learning,Task,Method,1,1,0,1,1
+extminer,supports,cluster analysis,Method,Method,1,1,1,1,1
+ezcalc,acquires,cluster analysis,Material,Method,0,0,0,0,0
+face detection system,uses,decision tree,Method,Method,1,1,1,1,1
+factorization,provides,link prediction,Method,Task,1,0,1,1,1
+fakm,executes,cluster analysis,Method,Method,1,1,0,1,1
+faq retrieval system,uses,cluster analysis,Method,Method,0,1,1,0,1
+feature block,matches,dimensionality reduction,OtherEntity,Task,0,1,0,1,1
+feature decomposition approach,affects,decision tree,Method,Method,1,1,1,1,1
+feature maximization,skos:broader/is/hyponym-of,decision tree,Method,Method,0,0,0,1,0
+feature set,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+feature space,acquires,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+feature subtypes,produces,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+feedforward neural network,uses,cluster analysis,Method,Method,1,1,0,0,0
+feedforward neural network,matches,decision tree,Method,Method,1,0,1,1,1
+filtered digital image,includes,cluster analysis,Material,Method,0,0,0,0,0
+financial application example,includes,supervised machine learning,Material,Method,0,0,0,0,0
+fingerprint and palmprint image,extracts,deep learning,Material,Method,0,0,0,0,0
+fingerprint recognition,based-on,supervised machine learning,Task,Method,1,1,1,1,1
+first model,uses,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+fisher discriminant analysis,skos:broader/is/hyponym-of,dimensionality reduction,Method,Task,1,1,1,1,1
+fixed delay timing analysis,analyzes,dimensionality reduction,Method,Task,0,0,0,0,0
+floating point machine learning network,skos:broader/is/hyponym-of,supervised machine learning,Method,Method,1,1,0,1,1
+forecasting model,uses,feedforward neural network,Method,Method,1,1,1,1,1
+framelevel feature,executes,deep learning,OtherEntity,Method,1,0,0,0,0
+frequency and time domain,extracts,supervised machine learning,Material,Method,0,0,0,0,0
+frequency selective surface,analyzes,cluster analysis,Method,Method,0,0,0,0,0
+full dependency syntactic feature space,proposes,cluster analysis,OtherEntity,Method,0,0,0,0,0
+function class,analyzes,deep learning,Method,Method,0,0,0,0,0
+functional response amplitude,matches,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+future sensor reading,produces,deep learning,OtherEntity,Method,0,0,0,0,0
+fuzziness,includes,decision tree,Metric,Method,0,0,0,0,0
+fuzzy c-means,based-on,cluster analysis,Method,Method,1,1,1,1,1
+fuzzy clustering,skos:broader/is/hyponym-of,cluster analysis,Method,Method,1,1,1,1,1
+fuzzy clustering based algorithm,executes,cluster analysis,Method,Method,1,1,1,1,1
+fuzzy rule,uses,decision tree,Method,Method,1,1,0,1,1
+fuzzy subtractive clustering,skos:broader/is/hyponym-of,cluster analysis,Method,Method,1,1,1,1,1
+fuzzy time series,uses,dimensionality reduction,Material,Task,0,0,0,0,0
+gaussian mixture model,produces,cluster analysis,Method,Method,1,1,1,1,1
+gaussian process,produces,ensemble learning,Method,Method,1,0,1,1,1
+gbi,produces,decision tree,Method,Method,1,1,1,1,1
+gene chip data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+genetic programming,extracts,decision tree,Method,Method,1,1,1,1,1
+genre taxonomy,uses,supervised machine learning,Material,Method,0,0,0,0,0
+global server site,contributes-to,cluster analysis,OtherEntity,Method,0,0,0,0,0
+google knowledge graph,uses,link prediction,Material,Task,0,0,0,0,0
+graph based vehicle tracking method,uses,deep learning,Method,Method,0,1,0,1,1
+graph conductance,provides,link prediction,OtherEntity,Task,0,1,0,1,1
+graphics processor,uses,deep learning,Method,Method,1,1,1,1,1
+gray level split gray image,uses,cluster analysis,Material,Method,0,0,0,0,0
+grid node,uses,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+ground truth,provides,cluster analysis,Material,Method,0,0,0,0,0
+grouping brain activity,uses,cluster analysis,OtherEntity,Method,1,1,0,0,0
+grouping similar object,uses,cluster analysis,Task,Method,1,1,1,0,1
+guideline,produces,supervised machine learning,Material,Method,0,0,0,0,0
+gyroscope feature signal,processes,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+hand gesture,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+hand gesture,identifies,decision tree,Material,Method,0,0,0,0,0
+hard subspace clustering algorithm,uses,dimensionality reduction,Method,Task,1,1,1,1,1
+hash code data,uses,deep learning,Material,Method,0,0,0,0,0
+health support system,includes,pattern classification,Method,Task,0,1,1,1,1
+height oriented method,manages,supervised machine learning,Method,Method,0,1,0,0,0
+heterogeneous data set,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+hetgnn,outperforms,cluster analysis,Method,Method,0,1,1,0,1
+hexagonal clustering result,includes,cluster analysis,OtherEntity,Method,0,1,1,0,1
+hierarchical algorithm approach,solves,cluster analysis,Method,Method,1,1,1,0,1
+hierarchical and nonhierarchical clustering algorithm,skos:broader/is/hyponym-of,cluster analysis,Method,Method,1,1,1,1,1
+high dimensional structured data,executes,cluster analysis,Material,Method,0,0,0,0,0
+high dimensions data,executes,decision tree,Material,Method,0,0,0,0,0
+high performance membership function,uses,decision tree,OtherEntity,Method,0,0,0,0,0
+high speed morphological processing,outperforms,supervised machine learning,Task,Method,0,0,0,0,0
+higher dimensional data set,uses,deep learning,Material,Method,0,0,0,0,0
+highly descriptive feature,includes,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+human maintained web directory,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+hybrid method,based-on,supervised machine learning,Method,Method,1,1,1,1,1
+hybrid recommendation approach,based-on,dimensionality reduction,Method,Task,0,1,1,1,1
+hyper-spectral image,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+hypertext and searchable index,solves,bayesian classifier,OtherEntity,Method,0,0,0,0,0
+hypothesis set,includes,decision tree,Material,Method,0,0,0,0,0
+iir system,uses,supervised machine learning,Method,Method,1,0,1,1,1
+image analysis,uses,deep learning,Task,Method,1,1,1,1,1
+image categorization or classification problem,uses,deep learning,Task,Method,1,1,1,1,1
+image classification,includes,deep learning,Task,Method,1,1,1,1,1
+image classification,uses,deep learning,Task,Method,1,1,1,1,1
+image classification and processing method,based-on,deep learning,Method,Method,1,1,1,1,1
+image classification and processing method,includes,supervised machine learning,Method,Method,1,1,1,1,1
+image data retrieval method,uses,deep learning,Method,Method,1,1,1,1,1
+image denoising method,uses,deep learning,Method,Method,0,1,1,1,1
+image feature,uses,cluster analysis,Material,Method,0,0,0,0,0
+image of image characteristic,uses,dimensionality reduction,OtherEntity,Task,0,0,0,0,0
+image of the video sequence,uses,supervised machine learning,Material,Method,0,0,0,0,0
+image processing systems and method,uses,deep learning,Method,Method,1,1,1,1,1
+image quality,includes,supervised machine learning,Metric,Method,0,0,0,0,0
+in network data compression,limits,deep learning,Task,Method,1,0,0,0,0
+index evaluation personnel,supports,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+indexation structure,uses,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+indirect learning feature weight algorithm,improves,cluster analysis,Method,Method,1,1,1,1,1
+inertia matrix,based-on,cluster analysis,OtherEntity,Method,0,1,1,0,1
+information retrieval technique,based-on,supervised machine learning,Method,Method,1,1,1,1,1
+information source,uses,deep learning,Material,Method,0,0,0,0,0
+informational and interface affordances,uses,ensemble learning,OtherEntity,Method,0,0,0,0,0
+informative representation,uses,deep learning,Method,Method,1,1,0,1,1
+initial centre,executes,cluster analysis,OtherEntity,Method,1,0,0,0,0
+inspection cost,uses,cluster analysis,Metric,Method,0,0,0,0,0
+internet of things technology,uses,supervised machine learning,Method,Method,1,1,1,1,1
+interviewing process,uses,decision tree,Task,Method,0,1,0,1,1
+iots,uses,deep learning,Material,Method,0,1,0,0,0
+java based software,improves,cluster analysis,Method,Method,0,1,0,1,1
+just in time jit philosophy,based-on,deep learning,Method,Method,0,1,0,1,1
+k means like algorithm,guides,cluster analysis,Method,Method,1,1,1,1,1
+k means like algorithm,uses,cluster analysis,Method,Method,1,1,1,1,1
+kernel learning approach,classifies,supervised machine learning,Method,Method,1,0,1,0,0
+knowledge acquisition,uses,supervised machine learning,Task,Method,1,1,1,1,1
+knowledge base,based-on,cluster analysis,Material,Method,1,0,0,0,0
+knowledge based alarm system,uses,supervised machine learning,Method,Method,0,1,0,1,1
+knowledge reuse mechanism,uses,deep learning,Method,Method,0,1,0,1,1
+kohonen network,matches,cluster analysis,Method,Method,1,0,1,1,1
+kohonen network,skos:broader/is/hyponym-of,cluster analysis,Method,Method,1,0,1,1,1
+lane semantics,uses,deep learning,OtherEntity,Method,0,0,0,0,0
+large media directory,uses,supervised machine learning,Material,Method,0,0,1,0,0
+large scale collection of document,uses,cluster analysis,Material,Method,0,0,0,0,0
+large scale dataset,transfers,deep learning,Material,Method,1,0,0,0,0
+large scale deep neural network,based-on,dimensionality reduction,Task,Task,0,1,1,1,1
+large size database,matches,cluster analysis,Material,Method,0,0,0,0,0
+large sized data,uses,cluster analysis,Material,Method,0,0,0,0,0
+large sized dataset,executes,deep learning,Material,Method,0,0,0,0,0
+lead tension change trend diagram,skos:broader/is/hyponym-of,decision tree,OtherEntity,Method,0,0,0,0,0
+leaf photograph,includes,dimensionality reduction,Material,Task,0,0,0,0,0
+leak,based-on,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+learned structure,improves,deep learning,OtherEntity,Method,1,1,0,0,0
+learning based,uses,deep learning,Method,Method,1,0,0,1,0
+learning non stationary data,acquires,supervised machine learning,Task,Method,1,0,0,1,0
+learning or estimation problem,uses,supervised machine learning,Task,Method,0,1,1,1,1
+least square support vector machine,includes,pattern classification,Method,Task,1,1,1,1,1
+leg support member,contributes-to,parameter learning,OtherEntity,Method,0,0,0,0,0
+linguistics,acquires,supervised machine learning,Material,Method,0,0,0,0,0
+link prediction,analyzes,cnrl model,Task,Method,0,0,0,1,0
+link prediction,skos:broader/is/hyponym-of,evaluation measure task,Task,Task,1,0,1,0,0
+link prediction,produces,heterogenous relationship,Task,OtherEntity,1,1,1,1,1
+link prediction,limits,link prediction lp approach,Task,Method,1,0,1,0,0
+link prediction,uses,network panel data,Task,Material,1,1,1,1,1
+link prediction,skos:broader/is/hyponym-of,network science,Task,Task,1,1,1,1,1
+link prediction,uses,network traffic,Task,Material,0,1,0,1,1
+link prediction,skos:broader/is/hyponym-of,real world example application,Task,Task,1,0,1,1,1
+link prediction,uses,temporal based metric,Task,Method,1,0,1,1,1
+lipschitz continuous,skos:broader/is/hyponym-of,deep learning,OtherEntity,Method,0,0,0,0,0
+live dom element,extracts,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+local geometry,produces,dimensionality reduction,OtherEntity,Task,0,1,0,1,1
+locomotive driving circuit,provides,link prediction,Method,Task,0,0,0,0,0
+logic language program,uses,cluster analysis,Method,Method,0,0,0,0,0
+long term memory,uses,supervised machine learning,OtherEntity,Method,1,0,0,0,0
+low dimension manifold structure,uses,dimensionality reduction,OtherEntity,Task,0,1,0,1,1
+low dimension space,acquires,dimensionality reduction,OtherEntity,Task,0,1,0,1,1
+low dimensionality gabor feature vector,executes,dimensionality reduction,OtherEntity,Task,0,1,0,1,1
+low level resolution image,uses,cluster analysis,Material,Method,0,0,0,1,0
+lower dimensional locomotion stimulus,uses,decision tree,OtherEntity,Method,0,0,0,0,0
+lymphocyte cell type,uses,deep learning,OtherEntity,Method,0,0,0,0,0
+machine learned learning data,executes,supervised machine learning,Material,Method,0,0,0,0,0
+machine learning based algorithm,includes,decision tree,Method,Method,1,1,1,1,1
+machine learning based algorithm,uses,deep learning,Method,Method,1,1,1,1,1
+machine learning based algorithm,produces,dimensionality reduction,Method,Task,1,1,1,0,1
+machine learning training instance,uses,supervised machine learning,Material,Method,0,0,1,0,0
+machine translation,uses,deep learning,Task,Method,1,1,1,1,1
+machinelearning technique,produces,decision tree,Method,Method,1,1,1,1,1
+malicious software,uses,supervised machine learning,Method,Method,1,0,0,1,0
+malignant transformation,uses,supervised machine learning,Task,Method,1,0,0,1,0
+mass data set,uses,cluster analysis,Material,Method,0,0,0,0,0
+matched filter approach,acquires,dimensionality reduction,Method,Task,0,0,0,0,0
+mathematics school curriculum,executes,cluster analysis,Method,Method,0,0,0,0,0
+maximum degree,matches,cluster analysis,OtherEntity,Method,0,0,0,0,0
+mb texture and mv correspondence,uses,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+mcfp,uses,cluster analysis,Method,Method,1,1,1,1,1
+mdg,uses,cluster analysis,Method,Method,0,1,1,1,1
+mdv,uses,supervised machine learning,Method,Method,0,0,0,1,0
+measurements data,produces,cluster analysis,Material,Method,0,0,0,0,0
+medical image segmentation,uses,deep learning,Task,Method,1,1,0,1,1
+medoidshifts,uses,cluster analysis,Method,Method,1,1,1,1,1
+mel frequency,uses,deep learning,Method,Method,1,0,0,1,0
+memory usage data,uses,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+micro level node evolution,produces,link prediction,OtherEntity,Task,0,0,0,1,0
+micro-blog,produces,cluster analysis,Material,Method,0,0,0,0,0
+microarray data management and processing,uses,cluster analysis,Task,Method,1,1,1,1,1
+microarray data representation structure,uses,cluster analysis,Method,Method,1,1,1,1,1
+microarray data representation structure,improves,supervised machine learning,Method,Method,1,0,1,1,1
+mobile device,uses,supervised machine learning,Material,Method,0,0,0,0,0
+model and learning method,uses,dimensionality reduction,Method,Task,1,1,1,1,1
+model class,uses,decision tree,OtherEntity,Method,1,0,0,1,0
+model of expert behaviour,uses,supervised machine learning,OtherEntity,Method,0,1,0,1,1
+molecule data,uses,cluster analysis,Material,Method,0,0,0,1,0
+morphological datasets,identifies,pattern classification,Material,Task,0,0,0,0,0
+motor imagery electroencephalograms eeg,includes,dimensionality reduction,Material,Task,0,0,0,0,0
+mscsd,uses,supervised machine learning,Method,Method,1,1,1,1,1
+multi bit division,based-on,decision tree,OtherEntity,Method,0,0,0,1,0
+multi level algorithm,produces,cluster analysis,Method,Method,1,1,0,0,0
+multi purpose storage composite card,based-on,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+multi warhead case,skos:broader/is/hyponym-of,cluster analysis,OtherEntity,Method,0,0,0,0,0
+multimedia and knowledge based system,uses,deep learning,Method,Method,0,1,1,1,1
+multimodal nature of the data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+multiple and heterogeneous data source,produces,cluster analysis,Material,Method,0,0,0,0,0
+multiple characteristic graph,uses,deep learning,OtherEntity,Method,0,0,0,0,0
+multivariate time series mts data,uses,deep learning,Material,Method,0,0,0,0,0
+musical structure,uses,supervised machine learning,Material,Method,0,0,0,0,0
+naive bayesian classifier,produces,decision tree,Method,Method,1,0,0,1,0
+naive bayesian classifier,uses,supervised machine learning,Method,Method,1,1,1,1,1
+natural language grounding,uses,deep learning,Task,Method,1,1,1,1,1
+navigation pattern approach,acquires,cluster analysis,Method,Method,1,1,1,0,1
+nci 60 dataset,analyzes,cluster analysis,Material,Method,0,0,1,0,0
+nest,uses,supervised machine learning,Method,Method,1,0,0,1,0
+network intrusion detection,uses,cluster analysis,Task,Method,1,1,0,1,1
+network performance,includes,cluster analysis,Metric,Method,0,0,0,0,0
+neural dissimilarity measure,solves,cluster analysis,Metric,Method,1,0,1,0,0
+neuroimaging modality,uses,supervised machine learning,Method,Method,0,1,0,1,1
+noise effect,uses,decision tree,OtherEntity,Method,1,0,0,1,0
+noise resembling stripe,based-on,supervised machine learning,OtherEntity,Method,0,0,0,1,0
+noisy example data,uses,cluster analysis,Material,Method,0,0,0,0,0
+non coding rna sequence,uses,deep learning,Material,Method,0,0,0,0,0
+non linear likelihood based projection,produces,bayesian classifier,Method,Method,1,0,1,0,0
+non linearity concept,uses,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+non memory one strategy,uses,supervised machine learning,Method,Method,0,0,0,1,0
+non negative multiple matrix factorization,uses,text clustering,Method,Task,1,1,0,0,0
+non parametric weighted feature extraction,produces,cluster analysis,Method,Method,0,0,0,0,0
+non traditional feature,matches,decision tree,OtherEntity,Method,0,0,0,0,0
+non translational motion model,includes,parameter learning,Method,Method,0,1,0,0,0
+nonlinear demand function of price,uses,cluster analysis,OtherEntity,Method,0,0,0,0,0
+normalized false alarm rate,limits,supervised machine learning,Metric,Method,0,0,0,0,0
+numerical optimization,improves,cluster analysis,Method,Method,1,1,1,1,1
+numerical optimization,includes,supervised machine learning,Method,Method,1,1,1,1,1
+numerical training data set,executes,cluster analysis,Material,Method,0,0,0,0,0
+object detection and recognition,uses,deep learning,Task,Method,1,1,1,1,1
+object set,executes,cluster analysis,Material,Method,0,0,0,0,0
+oct mean,analyzes,cluster analysis,Method,Method,0,0,1,0,0
+offline and an online phase,uses,cluster analysis,Task,Method,1,0,0,1,0
+on device edge scenario,uses,deep learning,Task,Method,1,0,0,1,0
+online cloud performance debugging system,uses,deep learning,Method,Method,0,1,0,1,1
+online controller,uses,decision tree,Method,Method,0,1,0,1,1
+online glucose concentration measurement,executes,dimensionality reduction,Material,Task,0,0,0,0,0
+online store site,uses,supervised machine learning,Material,Method,0,0,0,0,0
+ontoair,uses,cluster analysis,Method,Method,0,1,0,1,1
+ontology integration,produces,supervised machine learning,Task,Method,1,0,0,0,0
+opencl build jpeg decoder,produces,cluster analysis,Method,Method,0,0,0,0,0
+optimally approximate match,extracts,deep learning,OtherEntity,Method,0,0,0,0,0
+optimization based clustering algorithm,uses,cluster analysis,Method,Method,1,1,0,1,1
+optimum membership function parameter,matches,cluster analysis,OtherEntity,Method,0,0,0,0,0
+or nmf,includes,cluster analysis,Method,Method,1,0,0,1,0
+our approach,matches,dimensionality reduction,OtherEntity,Task,0,0,1,0,0
+page class probability,uses,bayesian classifier,OtherEntity,Method,1,0,0,1,0
+parallelization framework,uses,deep learning,Method,Method,0,1,1,1,1
+parameter learning,learns,correction function value,Method,OtherEntity,1,1,1,1,1
+parameter learning,solves,low eye strain,Method,OtherEntity,0,0,0,0,0
+parameter learning,analyzes,numerical parameter,Method,Metric,1,1,1,1,1
+parameter learning,based-on,tensor decomposition based method,Method,Method,1,1,1,1,1
+parameter learning,supports,wavelet base,Method,Method,0,1,0,1,1
+partition aware local model palm,analyzes,deep learning,Method,Method,0,0,0,1,0
+pattern classification,includes,area,Task,Metric,1,0,0,0,0
+pattern classification,skos:broader/is/hyponym-of,decision making in,Task,Task,1,0,1,1,1
+pattern classification,uses,fgnn,Task,Method,1,1,1,1,1
+pattern classification,uses,fuzzy logic inference,Task,Method,1,1,1,1,1
+pattern classification,automates,interstitial abnormality,Task,OtherEntity,0,0,0,0,0
+pattern classification,uses,learning algorithms and procedure,Task,Method,1,0,1,1,1
+pattern classification,uses,radiomics and deep convolutional feature,Task,OtherEntity,0,1,0,1,1
+pattern feature,analyzes,pattern classification,OtherEntity,Task,0,0,0,0,0
+patterns in the data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+pedagogical piano literature,predicts,supervised machine learning,Material,Method,0,0,0,0,0
+personal computerbased machine vision system,uses,deep learning,Method,Method,0,1,0,1,1
+pervasive software system,uses,supervised machine learning,Method,Method,1,1,0,1,1
+phone class posterior probability,uses,cluster analysis,OtherEntity,Method,0,0,1,0,0
+phone recognition,uses,decision tree,Task,Method,1,1,0,1,1
+phoneme recognition result,uses,deep learning,OtherEntity,Method,1,0,0,1,0
+physical design methodologies and tool,matches,supervised machine learning,Method,Method,0,0,0,0,0
+physiology signal,executes,supervised machine learning,Material,Method,0,0,0,0,0
+pistis,uses,cluster analysis,Method,Method,1,1,1,1,1
+plda ht modeling,executes,dimensionality reduction,Method,Task,1,1,1,0,1
+point cloud data set,uses,deep learning,Material,Method,0,0,0,0,0
+polyu online palmprint database,executes,cluster analysis,Material,Method,0,0,0,0,0
+positional data,outperforms,supervised machine learning,Material,Method,0,0,0,0,0
+power gird component,uses,deep learning,Method,Method,0,1,0,1,1
+pre fetching model,uses,decision tree,Method,Method,0,1,1,1,1
+predecessor routing algorithm,matches,cluster analysis,Method,Method,0,0,0,0,0
+predictable rule,uses,decision tree,OtherEntity,Method,0,1,1,1,1
+predicted performance function,uses,supervised machine learning,OtherEntity,Method,1,0,0,1,0
+predicting accuracy rate,analyzes,decision tree,Metric,Method,1,0,1,1,1
+predicting dementia,outperforms,link prediction,Task,Task,0,0,0,0,0
+predicting feature,executes,supervised machine learning,OtherEntity,Method,1,0,1,1,1
+predicting prosodic target,uses,deep learning,Task,Method,1,1,0,0,0
+predictions model,based-on,supervised machine learning,OtherEntity,Method,1,1,1,1,1
+predictive analytics,produces,supervised machine learning,Task,Method,1,0,1,0,0
+predictive analytics,uses,supervised machine learning,Task,Method,1,1,1,1,1
+predictive modelling,based-on,supervised machine learning,Method,Method,1,1,1,1,1
+predictive power,produces,supervised machine learning,Metric,Method,0,0,0,1,0
+predictive twitter mood,uses,deep learning,OtherEntity,Method,1,1,1,1,1
+principle component analysis,solves,dimensionality reduction,Method,Task,1,1,1,1,1
+principle component analysis,supports,dimensionality reduction,Method,Task,1,1,1,1,1
+printer driver translator apparatus,executes,supervised machine learning,Method,Method,0,0,0,0,0
+privacy,manages,decision tree,Metric,Method,0,0,0,1,0
+privacy,manages,deep learning,Metric,Method,0,0,0,1,0
+privacy,manages,pattern classification,Metric,Task,0,0,0,1,0
+privacy,extracts,supervised machine learning,Metric,Method,0,0,0,0,0
+private cloud,based-on,supervised machine learning,Material,Method,1,1,0,0,0
+process of diagnosis,guides,deep learning,Task,Method,0,0,0,0,0
+processing of dna microarray image,uses,cluster analysis,Task,Method,1,1,1,0,1
+processor executing program code,produces,supervised machine learning,Method,Method,1,1,0,0,0
+processor executing program code,uses,supervised machine learning,Method,Method,1,1,1,0,1
+profanity,outperforms,cluster analysis,OtherEntity,Method,0,0,0,0,0
+progressive multi resolution pipeline,uses,supervised machine learning,Method,Method,0,1,0,0,0
+projected vector,produces,supervised machine learning,OtherEntity,Method,0,0,0,1,0
+projection,executes,dimensionality reduction,Task,Task,1,0,0,1,0
+projection onto the feature vector,uses,bayesian classifier,OtherEntity,Method,1,0,0,1,0
+promod system,uses,cluster analysis,Method,Method,0,0,0,0,0
+proof guidance strategy,uses,deep learning,Method,Method,0,1,0,0,0
+prosodic label,uses,decision tree,OtherEntity,Method,0,0,0,0,0
+prototype system implementation,supports,cluster analysis,Method,Method,1,1,1,1,1
+quality determination method,analyzes,cluster analysis,Method,Method,1,1,0,1,1
+quantitative segmentation,includes,supervised machine learning,Task,Method,0,1,0,1,1
+random bipartite graph,executes,cluster analysis,OtherEntity,Method,1,0,1,0,0
+random forest,based-on,decision tree,Method,Method,1,1,1,1,1
+raw data set,processes,supervised machine learning,Material,Method,0,0,0,0,0
+rdrce,supports,supervised machine learning,Method,Method,0,1,1,1,1
+real residential power consumption data,discusses,cluster analysis,Material,Method,0,0,0,0,0
+real time face recognition method,uses,deep learning,Method,Method,1,1,1,1,1
+real world dataset,analyzes,cluster analysis,Material,Method,0,0,0,0,0
+real world text data,uses,cluster analysis,Material,Method,0,0,0,0,0
+receiver operating characteristic,analyzes,decision tree,Metric,Method,1,0,0,1,0
+recipe,produces,supervised machine learning,Material,Method,0,0,0,0,0
+recipe,uses,supervised machine learning,Material,Method,0,0,0,0,0
+recommendation,based-on,supervised machine learning,Task,Method,1,1,1,1,1
+recommendation system,uses,supervised machine learning,Method,Method,1,1,1,1,1
+reconstructed data,contributes-to,cluster analysis,Material,Method,0,0,0,0,0
+redundant irrelevant feature,uses,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+reflector 28,based-on,deep learning,OtherEntity,Method,0,0,0,0,0
+regular expanders,affects,cluster analysis,Method,Method,0,0,0,0,0
+related word sen,uses,cluster analysis,OtherEntity,Method,1,0,0,0,0
+relational database,executes,cluster analysis,Material,Method,0,0,0,0,0
+relationships between entity,improves,cluster analysis,OtherEntity,Method,1,1,1,0,1
+remote sensing image,produces,supervised machine learning,Material,Method,0,0,0,0,0
+representation learning,proposes,deep learning,Method,Method,1,1,1,1,1
+representations of relation instance,extracts,supervised machine learning,Task,Method,0,0,1,0,0
+retransmission system,uses,decision tree,Method,Method,0,1,0,1,1
+revenue,produces,supervised machine learning,Metric,Method,0,0,0,0,0
+ri inner component,uses,supervised machine learning,Method,Method,0,0,1,0,0
+robust hashing algorithm,based-on,dimensionality reduction,Method,Task,1,1,1,1,1
+rotation forest rf ensemble classifier,outperforms,pattern classification,Method,Task,1,0,1,0,0
+rule base,uses,cluster analysis,Method,Method,1,1,0,0,0
+rule transformation algorithm,uses,decision tree,Method,Method,1,1,1,1,1
+runtime complexity issue,analyzes,cluster analysis,Task,Method,1,0,0,0,0
+sample image data,executes,supervised machine learning,Material,Method,0,0,0,0,0
+samples of neuroimaging data,uses,supervised machine learning,Material,Method,0,0,0,0,0
+sampling based algorithm,matches,cluster analysis,Method,Method,1,0,1,0,0
+scalable defense scheme,executes,supervised machine learning,Method,Method,0,1,0,1,1
+scheduling process data,analyzes,decision tree,Material,Method,0,0,0,0,0
+search space area,uses,cluster analysis,OtherEntity,Method,1,1,1,0,1
+self enhancement,matches,dimensionality reduction,OtherEntity,Task,0,0,0,1,0
+self organizing map,uses,cluster analysis,Method,Method,1,1,0,1,1
+semantic electronic dictionary,uses,cluster analysis,Material,Method,0,0,0,0,0
+semantic indexing of resource,includes,dimensionality reduction,Task,Task,0,0,1,0,0
+semi supervised learning based approach,skos:broader/is/hyponym-of,supervised machine learning,Method,Method,1,1,1,1,1
+semi supervised projected clustering algorithm,improves,cluster analysis,Method,Method,1,1,0,1,1
+sensitivity and specificity value,uses,decision tree,Metric,Method,1,0,0,0,0
+sensor network,uses,cluster analysis,Method,Method,1,1,1,1,1
+sentiment analysis,uses,deep learning,Task,Method,1,1,1,1,1
+shopping path data,uses,cluster analysis,Material,Method,0,0,0,0,0
+side information,improves,cluster analysis,Material,Method,1,1,0,0,0
+sieve rack,analyzes,cluster analysis,OtherEntity,Method,0,0,0,0,0
+signal intensity data,acquires,cluster analysis,Material,Method,0,0,0,0,0
+similarity of the feature vector,uses,dimensionality reduction,OtherEntity,Task,0,0,1,1,1
+single band image,uses,dimensionality reduction,Material,Task,0,0,0,0,0
+skin feature learning algorithm,based-on,deep learning,Method,Method,0,1,0,1,1
+slot filling system,matches,deep learning,Method,Method,0,0,0,1,0
+small cluster size,adapts,cluster analysis,OtherEntity,Method,1,0,1,1,1
+small sized mobile platform,improves,cluster analysis,Material,Method,0,0,0,0,0
+smart phone,uses,decision tree,Material,Method,0,0,0,0,0
+social furtherance incentive,produces,deep learning,OtherEntity,Method,0,0,0,0,0
+soft max loss,acquires,deep learning,OtherEntity,Method,1,0,0,0,0
+software architecture recovery,uses,cluster analysis,Task,Method,1,1,0,1,1
+som network,provides,cluster analysis,Method,Method,1,1,0,1,1
+sound and complete synthesis technique,uses,cluster analysis,Method,Method,0,0,0,1,0
+spark,includes,supervised machine learning,Material,Method,0,0,1,0,0
+sparsified image,uses,supervised machine learning,Material,Method,0,0,0,0,0
+spearman ranking correlation,supports,dimensionality reduction,Metric,Task,1,1,1,1,1
+spectral clustering,limits,cluster analysis,Method,Method,1,0,1,1,1
+spectrallink algorithm,outperforms,cluster analysis,Method,Method,1,1,1,0,1
+speech bandwidth extension method,uses,deep learning,Method,Method,0,1,0,1,1
+speech recognition software,uses,deep learning,Method,Method,1,1,1,1,1
+split method,supports,cluster analysis,Method,Method,1,1,1,1,1
+sr benchmark,matches,supervised machine learning,Material,Method,0,0,0,0,0
+stabilizing image,acquires,dimensionality reduction,Task,Task,0,0,0,0,0
+static property,includes,cluster analysis,OtherEntity,Method,1,0,0,0,0
+statistical activity feature,processes,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+statistical fitting algorithm,based-on,supervised machine learning,Method,Method,0,1,1,1,1
+statistical framework,provides,supervised machine learning,Method,Method,1,1,1,1,1
+statistical operation,uses,cluster analysis,Method,Method,0,1,0,1,1
+stock market,uses,deep learning,Material,Method,0,0,0,0,0
+stock market,uses,supervised machine learning,Material,Method,0,0,0,0,0
+storage of heterogeneous datasets,executes,cluster analysis,Task,Method,0,0,0,0,0
+structure of complex multidimensional data,uses,dimensionality reduction,Material,Task,0,0,0,0,0
+subgroup,uses,dimensionality reduction,OtherEntity,Task,0,0,0,0,0
+subject cluster,analyzes,cluster analysis,OtherEntity,Method,1,0,1,0,0
+supervised learning of hash code,uses,deep learning,Task,Method,1,1,1,1,1
+supervised machine learning,includes,affinity classifier,Method,Method,1,0,1,1,1
+supervised machine learning,identifies,android malware,Method,Material,1,1,0,1,1
+supervised machine learning,includes,automated hyperparameter optimization method,Method,Method,1,1,1,1,1
+supervised machine learning,executes,automatic detection device and method,Method,Method,1,0,1,1,1
+supervised machine learning,produces,background knowledge,Method,Material,1,1,1,1,1
+supervised machine learning,uses,backward error propagation,Method,Method,0,1,1,1,1
+supervised machine learning,uses,biofeedback computer system,Method,Method,0,0,0,0,0
+supervised machine learning,includes,black box likelihood,Method,OtherEntity,0,1,1,0,1
+supervised machine learning,provides,cache access profile,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,uses,channel estimation error,Method,Metric,0,1,0,1,1
+supervised machine learning,uses,charged broadcasting,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,uses,chronodisruption,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,uses,cif automaton,Method,Method,0,0,0,0,0
+supervised machine learning,includes,class imbalance situation,Method,Task,1,1,1,1,1
+supervised machine learning,uses,classifier combination method,Method,Method,1,1,1,1,1
+supervised machine learning,uses,cluster analysis,Method,Method,1,1,1,1,1
+supervised machine learning,based-on,complex engineering activity,Method,Task,0,1,0,1,1
+supervised machine learning,limits,complexity of storage,Method,Metric,1,0,0,1,0
+supervised machine learning,based-on,conditional random field,Method,Method,1,0,1,1,1
+supervised machine learning,includes,covert channel,Method,Material,0,0,0,1,0
+supervised machine learning,uses,cross validation,Method,Method,1,1,1,1,1
+supervised machine learning,uses,crowd sourcing,Method,Method,1,1,1,1,1
+supervised machine learning,uses,csc,Method,Method,0,1,0,1,1
+supervised machine learning,learns,cube construction time,Method,Metric,0,1,0,1,1
+supervised machine learning,skos:broader/is/hyponym-of,cutting edge data mining technology,Method,Method,1,1,1,1,1
+supervised machine learning,based-on,data augmentation,Method,Task,1,1,1,1,1
+supervised machine learning,uses,deep artificial neural network,Method,Method,1,1,1,1,1
+supervised machine learning,produces,deep decoder,Method,Method,0,1,1,1,1
+supervised machine learning,identifies,detecting and diagnosing fault,Method,Task,1,1,1,1,1
+supervised machine learning,predicts,detecting apnea event,Method,Task,0,1,0,0,0
+supervised machine learning,executes,dhc derived feature,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,supports,document classification,Method,Task,1,1,1,1,1
+supervised machine learning,uses,domain knowledge,Method,Material,1,1,1,1,1
+supervised machine learning,executes,double field of view prescan,Method,Method,0,0,0,0,0
+supervised machine learning,produces,dynamically configurable supply chain framework,Method,Method,0,1,0,0,0
+supervised machine learning,includes,entity extraction,Method,Task,1,1,1,1,1
+supervised machine learning,based-on,feedforward neural network,Method,Method,1,1,1,1,1
+supervised machine learning,limits,frame technology corporation,Method,Method,0,0,1,0,0
+supervised machine learning,uses,full search algorithm,Method,Method,1,0,1,1,1
+supervised machine learning,uses,functional aspects of service,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,acquires,functional parity,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,includes,fuzzy time series,Method,Material,1,1,1,1,1
+supervised machine learning,uses,generalized bilinear recovery problem,Method,Task,0,0,1,0,0
+supervised machine learning,predicts,global metric learning scheme,Method,Method,0,0,1,0,0
+supervised machine learning,supports,glrm,Method,Method,0,1,1,1,1
+supervised machine learning,uses,gps positioning,Method,Method,1,1,0,1,1
+supervised machine learning,analyzes,greedy job alignment procedure,Method,Method,0,0,0,0,0
+supervised machine learning,guides,group of non holonomic vehicle,Method,Method,0,1,0,0,0
+supervised machine learning,matches,hand crafted compiler optimization,Method,Method,1,0,0,0,0
+supervised machine learning,matches,handcrafting of rule,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,matches,high level variable,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,executes,human selected experiment,Method,Material,1,0,0,0,0
+supervised machine learning,produces,ifd,Method,Method,0,1,0,1,1
+supervised machine learning,based-on,image classification,Method,Task,1,0,1,0,0
+supervised machine learning,includes,image classification,Method,Task,1,1,1,1,1
+supervised machine learning,provides,incor pac,Method,Material,0,0,0,0,0
+supervised machine learning,acquires,information extraction rule set,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,supports,insight generation of the user,Method,Task,1,1,0,0,0
+supervised machine learning,produces,integrated circuit layout,Method,OtherEntity,1,1,0,1,1
+supervised machine learning,acquires,integrated data,Method,Material,1,1,1,1,1
+supervised machine learning,matches,internet,Method,Material,0,0,0,0,0
+supervised machine learning,based-on,iot personal device,Method,Task,1,1,0,0,0
+supervised machine learning,uses,job to machine assignment,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,uses,junction tree algorithm,Method,Method,0,1,0,1,1
+supervised machine learning,skos:broader/is/hyponym-of,kd operation,Method,Method,0,0,0,0,0
+supervised machine learning,uses,labeled data,Method,Material,1,1,1,1,1
+supervised machine learning,uses,least square support vector machine,Method,Method,1,1,1,1,1
+supervised machine learning,links,linked article,Method,Material,0,1,1,1,1
+supervised machine learning,improves,logic eltmin,Method,Method,0,0,0,0,0
+supervised machine learning,uses,logical relationship feature vector,Method,OtherEntity,0,1,1,0,1
+supervised machine learning,uses,logistic regression model,Method,Method,1,1,1,1,1
+supervised machine learning,uses,low rank modeling approach,Method,Method,1,1,1,0,1
+supervised machine learning,produces,machine learning of model,Method,Method,1,1,1,1,1
+supervised machine learning,uses,malicious or infected node,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,uses,manual and automated postediting,Method,Task,0,0,0,0,0
+supervised machine learning,uses,manually engineered feature,Method,OtherEntity,1,1,1,1,1
+supervised machine learning,supports,mass cytometry data,Method,Material,1,0,0,1,0
+supervised machine learning,based-on,mathematical construct of object shape,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,includes,matrix factorization,Method,Method,1,1,1,1,1
+supervised machine learning,based-on,measurement of fitness,Method,Metric,0,1,0,1,1
+supervised machine learning,extracts,meta recognition system,Method,Method,0,0,1,0,0
+supervised machine learning,supports,microcontrollers of sensor node,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,acquires,microsoft kinect version 1,Method,Method,0,1,0,0,0
+supervised machine learning,uses,monte carlo method mcm,Method,Method,1,1,1,1,1
+supervised machine learning,uses,multiagent system,Method,Method,1,1,1,0,1
+supervised machine learning,skos:broader/is/hyponym-of,multimedia recommendation method,Method,Method,0,0,0,0,0
+supervised machine learning,provides,non linear separator,Method,OtherEntity,1,1,1,1,1
+supervised machine learning,identifies,nondeterministic lr parsing,Method,Method,0,0,1,0,0
+supervised machine learning,includes,numeric attribute list,Method,OtherEntity,1,1,0,1,1
+supervised machine learning,produces,numerical optimization,Method,Method,1,1,1,1,1
+supervised machine learning,identifies,operational issue,Method,Task,1,1,0,0,0
+supervised machine learning,includes,periodic step module,Method,Method,0,0,0,0,0
+supervised machine learning,based-on,phishing web site,Method,Material,1,0,0,0,0
+supervised machine learning,produces,prediction of information resource,Method,Task,1,1,1,1,1
+supervised machine learning,based-on,predictive modelling,Method,Method,1,1,1,1,1
+supervised machine learning,predicts,privacy,Method,Metric,1,1,0,1,1
+supervised machine learning,provides,privacy,Method,Metric,1,1,0,1,1
+supervised machine learning,based-on,probabilistic framework,Method,Method,1,1,1,1,1
+supervised machine learning,identifies,product database server,Method,Method,0,1,0,0,0
+supervised machine learning,acquires,programming course,Method,Task,1,1,0,0,0
+supervised machine learning,uses,protein active site,Method,OtherEntity,1,1,0,0,0
+supervised machine learning,based-on,random forest,Method,Method,1,0,1,1,1
+supervised machine learning,produces,ranking function,Method,Method,1,1,1,1,1
+supervised machine learning,manages,raw mfs feature,Method,OtherEntity,0,1,1,0,1
+supervised machine learning,based-on,reinforcement learning agent,Method,Method,1,1,1,1,1
+supervised machine learning,uses,reinforcement learning agent,Method,Method,1,1,1,1,1
+supervised machine learning,based-on,rlsc,Method,Method,0,1,0,1,1
+supervised machine learning,uses,rough set theory,Method,Method,1,1,1,1,1
+supervised machine learning,produces,scoring function,Method,Method,1,1,1,1,1
+supervised machine learning,uses,selection method,Method,Method,1,1,1,1,1
+supervised machine learning,uses,sensor,Method,Material,1,1,0,0,0
+supervised machine learning,analyzes,sensor data,Method,Material,1,1,0,1,1
+supervised machine learning,guides,sentiment classification datasets,Method,Material,0,0,1,1,1
+supervised machine learning,based-on,simulated participant,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,includes,software fault proneness model,Method,Method,1,1,0,0,0
+supervised machine learning,includes,speech recognition software,Method,Method,1,1,0,1,1
+supervised machine learning,proposes,stability of equilibrium point,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,predicts,storage format and parameter,Method,OtherEntity,0,1,0,0,0
+supervised machine learning,based-on,street light status,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,uses,svm,Method,Method,1,1,1,1,1
+supervised machine learning,produces,switching signal input end,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,includes,synthesized painting data,Method,Material,0,0,0,0,0
+supervised machine learning,executes,ternary schmitt trigger,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,produces,tongue segmentation algorithm,Method,Method,1,1,1,1,1
+supervised machine learning,solves,tournament gaming system,Method,Method,0,0,0,0,0
+supervised machine learning,uses,transient dynamic,Method,Task,0,0,0,1,0
+supervised machine learning,includes,two class imbalance problem,Method,Task,1,1,1,1,1
+supervised machine learning,based-on,ultrascale fpgas,Method,Material,0,1,0,1,1
+supervised machine learning,uses,upgrade sub system and tool,Method,Method,0,0,0,0,0
+supervised machine learning,uses,user friendly authentication system,Method,Method,0,1,0,0,0
+supervised machine learning,learns,user program grading matrix,Method,OtherEntity,0,0,1,0,0
+supervised machine learning,produces,variable abstraction with sharing,Method,OtherEntity,0,0,0,0,0
+supervised machine learning,uses,variational characterization,Method,Method,1,1,1,1,1
+supervised machine learning,analyzes,vector of weight,Method,OtherEntity,0,1,1,1,1
+supervised machine learning,includes,video processing,Method,Task,1,1,1,1,1
+supervised machine learning,includes,video shooting,Method,Task,0,1,0,1,1
+supervised machine learning,predicts,vulnerability concept definition,Method,OtherEntity,1,0,0,0,0
+supervised machine learning,supports,wall climbing robot,Method,Method,1,1,0,1,1
+supervised machine learning,produces,weak supervision,Method,Method,1,1,1,1,1
+svm,outperforms,decision tree,Method,Method,1,1,1,1,1
+swara method,uses,cluster analysis,Method,Method,0,1,0,1,1
+symbolic regression task,improves,cluster analysis,Task,Method,0,0,1,1,1
+symmetric multi task learning,uses,hierarchical dirichlet process,Method,Method,1,1,0,1,1
+synonym,identifies,supervised machine learning,Material,Method,0,0,0,0,0
+template markup language,extracts,link prediction,Method,Task,0,0,0,0,0
+temporal scalability,matches,supervised machine learning,Metric,Method,0,0,0,0,0
+tensorflow library,based-on,supervised machine learning,Method,Method,1,1,1,1,1
+text clustering,uses,discourse relation based clustering algorithm,Task,Method,1,1,1,1,1
+text clustering,uses,offline type protocol,Task,Method,0,0,0,0,0
+text clustering,uses,virtual navigator agent neighbor set,Task,OtherEntity,0,0,0,0,0
+text document,manages,supervised machine learning,Material,Method,0,0,0,0,0
+textual document,uses,supervised machine learning,Material,Method,0,0,0,0,0
+theoretical construct of visibility,based-on,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+theoretical shafting center line,provides,cluster analysis,OtherEntity,Method,0,0,0,0,0
+three dimensional speech animation,uses,supervised machine learning,Material,Method,0,0,0,0,0
+topic detection and tracking,based-on,cluster analysis,Task,Method,1,1,1,1,1
+topic model,uses,cluster analysis,Method,Method,1,1,1,1,1
+topology characteristic,improves,link prediction,OtherEntity,Task,0,0,0,1,0
+track extraction algorithm,uses,cluster analysis,Method,Method,0,1,0,1,1
+training click log db 12,executes,supervised machine learning,OtherEntity,Method,0,0,0,0,0
+training sample,includes,dimensionality reduction,Material,Task,0,0,0,0,0
+training sample,executes,supervised machine learning,Material,Method,0,0,0,0,0
+tree augmented naive bayes structure,skos:broader/is/hyponym-of,bayesian classifier,Method,Method,1,1,1,1,1
+twitter data set,uses,supervised machine learning,Material,Method,0,0,0,0,0
+uci benchmarking data set,analyzes,cluster analysis,Material,Method,0,0,1,0,0
+unix based system,analyzes,cluster analysis,Method,Method,0,0,0,1,0
+unlabeled information,executes,deep learning,OtherEntity,Method,1,0,0,1,0
+unstructured mesh,uses,cluster analysis,Material,Method,0,0,0,0,0
+unsupervised neural computing network,uses,text clustering,Method,Task,1,1,1,1,1
+unsupervised neural networks model,provides,cluster analysis,Method,Method,1,1,1,1,1
+user information,uses,cluster analysis,Material,Method,0,0,0,0,0
+user information,uses,decision tree,Material,Method,0,0,0,0,0
+user model,uses,deep learning,Method,Method,1,1,0,1,1
+user modelling,uses,supervised machine learning,Method,Method,1,1,1,1,1
+user request,uses,supervised machine learning,Material,Method,0,0,0,0,0
+validation,analyzes,cluster analysis,Task,Method,1,0,1,1,1
+validation,uses,cluster analysis,Task,Method,1,1,1,1,1
+validity index,learns,cluster analysis,Metric,Method,0,0,0,0,0
+variable selection,uses,cluster analysis,Task,Method,1,1,1,1,1
+vector quantization,uses,cluster analysis,Method,Method,1,0,1,1,1
+vector representation approach,uses,deep learning,Method,Method,1,1,1,1,1
+vessel traffic information,uses,supervised machine learning,Material,Method,0,0,0,0,0
+view point change,learns,deep learning,OtherEntity,Method,1,0,0,0,0
+visual analytics,analyzes,cluster analysis,Task,Method,0,0,0,1,0
+visual processing portion,uses,supervised machine learning,Method,Method,0,1,0,0,0
+visualization,analyzes,cluster analysis,Task,Method,1,0,1,1,1
+visualization of and interaction,improves,dimensionality reduction,Task,Task,1,0,0,0,0
+wavelet shrinkage,based-on,cluster analysis,Method,Method,1,1,0,1,1
+web data mining,uses,cluster analysis,Task,Method,1,1,1,1,1
+web data mining,includes,link prediction,Task,Task,1,1,1,1,1
+web data mining,based-on,supervised machine learning,Task,Method,1,1,1,1,1
+web data mining,produces,supervised machine learning,Task,Method,1,0,1,0,0
+web document,acquires,cluster analysis,Material,Method,0,0,0,0,0
+web scale document,uses,cluster analysis,Material,Method,0,0,0,0,0
+webquestions dataset,uses,deep learning,Material,Method,0,0,0,0,0
+wheel speed computation model,uses,supervised machine learning,Method,Method,0,1,0,0,0
+wide search space,uses,dimensionality reduction,OtherEntity,Task,0,1,1,1,1
+world wide web,matches,decision tree,Material,Method,0,0,0,0,0
+wristwatch computer,uses,supervised machine learning,OtherEntity,Method,1,1,1,0,1
+wsns,produces,cluster analysis,Material,Method,0,0,0,0,0
